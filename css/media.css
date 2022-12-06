@@ -1,0 +1,695 @@
+@media(max-width:1399px) {
+    .mainNav ul li {
+        margin: 0 10px;
+    }
+}
+
+@media(max-width:1299px) {
+    .guidesBg .owl-prev {
+        /*        left: -15px;*/
+    }
+
+    .guidesBg .owl-next {
+        /*        right: -15px;*/
+    }
+}
+
+@media(max-width:1199px) {
+    .mainNav ul li {
+        margin: 0 5px;
+    }
+
+    .mainNav ul li a {
+        font-size: 15px;
+    }
+
+    .headSrch input {
+        /*        width: 190px;*/
+    }
+}
+
+@media(max-width:1024px) {
+    .discoverTxt {
+        font-size: 50px;
+        line-height: 60px;
+        top: 22%;
+        width: 665px;
+    }
+    .addTop h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .editorPick .owl-nav {
+        position: absolute;
+        top: inherit;
+        bottom: -30px;
+        left: 0;
+        right: 0;
+        width: 10%;
+        min-width: 110px;
+        margin: 0 auto;
+    }
+
+
+}
+
+@media(min-width:992px) {
+    .deskCentr {
+        justify-content: center;
+    }
+
+    .mobSocial {
+        display: none;
+    }
+}
+
+@media(max-width:991px) {
+
+
+
+
+    .mobileHidden {
+        display: none;
+    }
+
+    .nfTrendingTab {
+        display: block;
+    }
+
+    .pdnTp50 {
+        padding-top: 0;
+    }
+
+    .nfTrendingTab h3 {
+        padding-top: 0;
+    }
+
+    .detailTabs {
+        position: static;
+    }
+
+    .latestBlock p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .latestBlock h5 {
+        font-size: 20px;
+        line-height: 22px;
+    }
+
+    .editorPick {
+        padding-bottom: 50px;
+        margin-bottom: 10px;
+    }
+
+    .editorPick .owl-nav {
+        top: inherit;
+        bottom: -30px;
+    }
+
+    .editorPick .owl-next {
+        right: 0px;
+    }
+
+    .responsiveModalSrch {
+        display: block;
+    }
+
+    .mobileLogo {
+        display: block;
+    }
+
+    .mobileLogo img {
+        width: 190px;
+    }
+
+    .logoBar {
+        display: none;
+    }
+
+    .editorPick .owl-prev,
+    .editorPick .owl-next {
+        /*        display: none !important;*/
+    }
+
+    .navbar-nav {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .mainNav ul li a {
+        font-size: 17px;
+    }
+
+
+    .mobSocial {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+        /*        background: #c9b29a;*/
+        background: #F3F3F3;
+    }
+
+    .mainNav .navbar-toggler {
+        border: none;
+        padding: 0;
+    }
+
+    .mainNav {
+        padding: 5px 0;
+    }
+
+    .mainNav ul li {
+        margin: 12px 0;
+    }
+
+    .closeMenu {
+        display: block;
+        float: right;
+        font-size: 20px;
+        color: #5c5c5c;
+    }
+
+    .addBg {
+        /*        height: 100px;*/
+        height: auto;
+        /*
+        position: static;
+        padding: 0;
+        margin: 0;
+*/
+    }
+
+    .addTop {
+        padding: 10px 10px 0 10px;
+    }
+
+
+    .addTop h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+
+    .navbar-toggler-icon {
+        position: relative;
+        top: 5px;
+        color: #000;
+    }
+
+    .navbar-toggler[aria-expanded="true"] i {
+        /*        display: none;*/
+    }
+
+    .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+        /*        background: none;*/
+    }
+
+    .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon::before {
+        /*
+        content: "\2715";
+        position: absolute;
+        z-index: 9;
+        left: 0px;
+        top: -2px;
+        font-size: 37px;
+*/
+    }
+
+    .navbar-collapse {
+        position: fixed;
+        z-index: 99;
+        left: 0;
+        top: 0px;
+        bottom: 0;
+        width: 80%;
+        background: #fff;
+        padding: 15px;
+        box-shadow: 0 0 5px #a5a5a5;
+    }
+
+
+    h1 {
+        font-size: 70px;
+        line-height: 80px;
+    }
+
+    h2 {
+        font-size: 38px;
+        line-height: 46px;
+    }
+
+    h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+
+    h4 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    h5 {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .stickyMain {   min-height: 142px;}
+    .addsStore img{top: 10px;}
+    .addBg.stickytop{position: static;}
+    .stickytop .addsStore img, .addsStore img{width: 70px;}
+    .newsFeatureSlide .placeBlock > img, .guidesBg .placeBlock > img{height: 309px;}
+    .latestBlock img{min-height: 157px;}
+    .latestBlock figure{height: auto;}
+    .textBtn-Btm{position: relative; bottom: inherit;}
+    
+
+    @-webkit-keyframes floatBubble {
+        0% {
+            top:200px;
+        }
+        100% {
+            top: 10px;
+        }
+    }
+    @keyframes floatBubble1 {
+        0% {
+            top:240px;
+        }
+        100% {
+            top: 10px;
+        }
+    }  
+
+
+
+
+}
+
+@media(min-width:768px) {
+    .footer-wrapper .accordion-button::after {
+        display: none;
+    }
+
+    .footer-wrapper .accordion-button:hover {
+        cursor: default;
+    }
+
+    .footer-wrapper .collapse:not(.show),
+    .footer-wrapper .accordion-collapse {
+        display: block !important;
+        height: 100% !important;
+    }
+
+
+
+
+
+
+}
+
+@media(max-width:767px) {
+    .newsPlacebox .dBoxTxt {
+        bottom: 0;
+    }
+
+    .newsPlacebox img {
+        height: 215px !important;
+    }
+
+    .headSrch button {
+        font-size: 20px;
+        top: 8px;
+    }
+
+    .headSrch input {
+        font-size: 18px;
+    }
+
+    .placeBlock h5 {
+        font-weight: 400;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .footsocial {
+        display: none;
+    }
+
+    .copyright .footsocial {
+        display: block;
+        padding: 0;
+        margin: 0;
+    }
+
+    .accordion {
+        display: none;
+    }
+
+    .mobSocial {
+        /*        justify-content: flex-start !important;*/
+        padding-bottom: 25px;
+    }
+
+    .mobSocial a {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+
+    .dBoxTxt {
+        bottom: 20px;
+    }
+
+    .newsFeatureSlide .dBoxTxt {
+        bottom: 0px;
+    }
+
+    .footerGetbtn {
+        display: block;
+    }
+
+    .footerGetbtn img {
+        width: 200px;
+        margin-bottom: 20px;
+    }
+
+
+
+
+
+    .headSrch {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .mobileFlex {
+        flex-direction: column-reverse;
+    }
+
+
+
+
+
+
+    .footer-wrapper .accordion-button {
+        width: auto;
+    }
+
+    .footer-wrapper .accordion-item {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .footer-wrapper .accordion-button::after {
+        margin-left: 5px;
+    }
+
+    .picksBg {
+        margin: 20px 0 0 0;
+    }
+
+    .footsocial {
+        /*        display: flex;*/
+        padding-bottom: 35px;
+    }
+
+    #discoverslide .owl-dots {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        display: block;
+        padding: 5px;
+    }
+
+    .dBox img {
+        /*        max-height: 60vh;*/
+        height: calc(100vh - 250px);
+        object-fit: cover;
+    }
+
+    .headsocial a {
+        width: 33px;
+        height: 33px
+    }
+
+    .headsocial img {
+        width: 18px;
+    }
+
+    .getBtn img {
+        width: 142px;
+        margin-top: 10px;
+    }
+
+    .advertBg {
+        text-align: center;
+    }
+
+    .advertBg h2 {
+        padding-top: 20px;
+    }
+
+    .discoverTxt {
+        width: 90%;
+        font-size: 50px;
+        line-height: 55px;
+        /*        top: 31px;*/
+    }
+
+    .logo img {
+        width: 210px;
+    }
+
+    .footLogobg img {
+        width: 160px;
+    }
+
+    .footer-wrapper .footer-inner {
+        padding-bottom: 5px;
+        border-bottom: 0;
+    }
+
+    .copyright p {
+        padding: 0;
+        font-size: 17px;
+    }
+
+    .logoBar {
+        text-align: center;
+    }
+
+    .getBtn {
+        margin-bottom: 10px;
+        margin-top: 0;
+    }
+
+    .headsocial {
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .addTop h2 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+
+
+    .copyright {
+        /*        flex-direction: column;*/
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 0;
+    }
+
+    .footer-wrapper {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .footLogobg {
+        padding-right: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .storebtn {
+        justify-content: center;
+        padding-bottom: 10px;
+        padding-top: 0px;
+    }
+
+    .responsiveLinkHead {
+        padding-top: 25px;
+        padding-bottom: 0 !important;
+        display: none !important;
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    h3 {
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    h4 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    h5 {
+        font-size: 16px;
+        line-height: 20px;
+    }  
+
+    .addBg{flex-direction: column;  padding: 10px 15px; text-align: center;}
+    .addBg h2{font-size: 24px;line-height: 28px;}
+    .addsStore{display: none;}
+    .addApple{margin-top: 10px;}
+    .discoverTxt span{font-size: 18px; line-height: 20px;}
+    .discoverTxt span::after{    margin: 5px auto 10px auto;}
+    .discoverTxt {
+        width: 90%;
+        font-size: 28px;
+        line-height: 32px;
+        top: 15%;
+    }
+    .discoverBanner .dBoxTxt p{margin-bottom: 0;}
+    h6 {font-size: 16px;  line-height: 18px; }
+    .dBoxTxt .category-title{ font-size: 14px; line-height: 16px; }
+    .col{width: 100%;}
+    .owl-dot{outline: none;}
+    .owl-dot span{background-color: transparent !important; border: 1px solid #fff;}
+    .owl-dot.active span{border: 1px solid #fff; background-color: #fff !important;}
+    .newsFeatureSlide .owl-nav{right: 0px;}
+    .owl-next span::before, .owl-prev span::before{font-size: 24px !important;}
+    .advertBg{padding: 20px 0;}
+    .advertBg{margin-top: 20px;}
+    .placeBlock{margin-bottom: 10px;}
+    .newsFeatureSlide h3, .trendingPlaces{padding-top: 0;}
+    .editorPick{padding: 20px 0 20px 0;}
+    .latestBlock.noBordr{border-bottom: 1px solid #ddd;}
+    .top-banner{min-height: 300px; height: auto;}
+    .trendingNewsSection, .latestNewsSection, .tabs-inline, .trendingPlaces, .guidesBg{padding:20px 0 0px 0;}
+    .editorPick, .footer-wrapper{margin-top:20px;}
+    #loading-Btn{display: block;}
+    .newsFeatureSlide .placeBlock > img, .guidesBg .placeBlock > img{height: 386px;}
+    .latestBlock img{min-height: 112px;}
+    .latestBlock figure{height: auto;}
+    .date, .category{font-size: 14px;}
+    .placeBottom{padding: 4px;}
+    .category:before{margin: 0 5px;}
+    .contentArea h5{font-size: 20px; line-height: 24px; padding: 0 15px;}
+    .largeLetter{font-size: 90px; line-height: 65px;}
+    #detailImgCarousel{margin-bottom: 20px;}
+    .viewMbtn{font-size: 15px !important;}
+    .greyBg{padding: 30px 0; margin-top:20px;}
+    .website-link, .author-link{font-size: 16px;}
+    .picksBg img{max-width: 80px !important; width: 90%; padding: 2px;}
+
+
+}
+
+@media(max-width:700px) {}
+
+@media(max-width: 600px) {
+
+
+    .latestBlock p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .placeUsr {
+        padding-top: 10px;
+    }
+
+    p,
+    ul,
+    li,
+    ol,
+    div,
+    body,
+    input,
+    select,
+    textarea,
+    a {
+        font-size: 14px;
+    }
+
+
+    .dBoxTxt {
+        padding: 10px 20px;
+    }
+
+    .dBoxTxt p {
+        margin: 0;
+    }
+
+    .dBoxTxt h5 {
+        font-size: 17px;
+    }
+
+}
+
+@media(max-width:575px) {
+    .places {
+        padding: 45px 0 55px;
+    }
+
+
+
+    .plB2 > img,
+    .placeBlock > img {
+        height: auto;
+    }
+
+}
+
+@media(max-width:480px) {
+    .dBoxTxt h5 {
+        padding-bottom: 0;
+    }
+
+    .dBoxTxt p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+
+  
+
+    .stickytop .addsStore img {
+        width: 50px;
+    }
+
+    .addTop {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+    }
+
+
+}
+
+@media(max-width:382px) {}
+
+@media(max-width:360px) {
+    .discoverTxt {
+        /*
+        font-size: 18px;
+        line-height: 20px;
+        top: 5px;
+*/
+    }
+}
