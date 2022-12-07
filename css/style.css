@@ -607,7 +607,7 @@ button {
 
 .newsFeatureSlide h6 {
     color: #fff;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 16px;
     line-height: 22px;
     padding-bottom: 3px;
@@ -1565,7 +1565,7 @@ font-family: 'Neutraface Text';*/
 .website-link i{margin: 0 8px 0 0;}
 .author-link img{margin: 0 8px; max-width: 33px; height: auto; border-radius: 100%;}
 .greyBg{background-color: #f9f7f6; padding: 50px 0; margin-top: 30px;}
-.discoverNewsSection h3{text-transform: uppercase;}
+.discoverNewsSection h3{text-transform: uppercase; padding-bottom: 15px; font-family: 'Poppins', sans-serif; font-weight: 500;}
 .dot:before {
     content: "";
     vertical-align: top;
@@ -1582,6 +1582,36 @@ font-family: 'Neutraface Text';*/
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
 }
+
+.inner-banner-text-bottom{
+    text-align: left;
+    padding: 0;
+    position: absolute;
+    max-width: 1400px;
+    width: 98%;
+    left: 0;
+    right: 0;
+    bottom: 10%;
+    margin: 0 auto;
+    text-transform: none;
+}
+.inner-banner-text-bottom h3{color: #fff; max-width: 90%; margin-top: 15px; font-family: 'Poppins', sans-serif; font-weight: 400;}
+.smallHD{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    vertical-align: top;
+    text-transform: uppercase;
+}
+.smallHD .icon-huntr{width: 50px; height: 50px; margin-right: 15px;}
+.inner-banner-text-bottom  .placeUsr{position: absolute; bottom: 10%; right: 0;}
+.show_hide{color: #000; font-family: 'Poppins', sans-serif; font-weight:500;}
+.show_hide:hover,.show_hide:focus{color: #000;}
+.show_hide i{font-weight: 400; margin-left: 10px;}
+.gridGuideList .placeBlock{margin-top: 20px;}
+.gridGuideList .col-md-4 > p{color: #000; margin-top: 15px; font-family: 'Poppins', sans-serif; font-weight:400;}
+.gridGuideList .col-md-4 a{font-size: 16px; font-weight: 600;}
+.border-curve{ max-width: 1400px; margin: 0 auto;border-radius: 25px 25px 0px 0; z-index:2;position: relative; margin-top: -20px; background-color: #fff;}
 
  /****** Animations *****/
 
