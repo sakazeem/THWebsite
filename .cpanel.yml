@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/appifystudio/th.appifystudio.com/
+    - /bin/cp -R * $DEPLOYPATH
