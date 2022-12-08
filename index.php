@@ -4,6 +4,7 @@
   // include('./latest-news.php');
 ?>
 <h2>CHECKING </h2>
+<p>checking branch</p>
     
 <!-- tabs start-->
 <section class="tabs-inline">
