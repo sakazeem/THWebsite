@@ -14,9 +14,6 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 
 <body>
@@ -47,7 +44,7 @@
                         <a href=""><img src="images/tiktok.png" alt="" /></a>
                     </div>
                 </div>
-                <div class="col-md-4 logo"><a href=""><img src="images/logo.png" alt="" /></a></div>
+                <div class="col-md-4 logo"><a href="/"><img src="images/logo.png" alt="" /></a></div>
                 <div class="col-md-4">
                     <button class="modalSrchBtn desktopModSrch" data-bs-toggle="modal" data-bs-target="#srchModal"><i
                             class="far fa-search"></i></button>
@@ -73,10 +70,10 @@
                                             href="/news-and-features.php">News &amp; Features</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="/guides.php">Places</a>
+                                        <a class="nav-link" href="/places.php">Places</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#">Guides</a>
+                                        <a class="nav-link" href="/guides.php">Guides</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">The Huntr Membership</a>
@@ -113,7 +110,7 @@
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"><i class="far fa-bars"></i></span>
                             </button>
-                            <div class="mobileLogo"><a href=""><img src="images/logo.png" alt="" /></a></div>
+                            <div class="mobileLogo"><a href="/"><img src="images/logo.png" alt="" /></a></div>
                             <div class="collapse navbar-collapse deskCentr" id="navbarSupportedContent">
                                 <span class="closeMenu"><i class="far fa-times-circle"></i></span>
                                 <ul class="navbar-nav mb-2 mb-lg-0">
@@ -212,4 +209,3 @@
             </div>
         </div>
     </section>
-</body>
