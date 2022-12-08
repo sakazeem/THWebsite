@@ -10,7 +10,7 @@
                         <p class="category-title">GUIDE</p>
                         <h6>The Ultimate Road Trip Guide: 12 Ways to Esca…...</h6>
                         <p>They are just that good...</p>
-                        <a class="btnLink" href="">View More <i class="fal fa-long-arrow-right"></i></a>    
+                        <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>    
                     </div>
                 </div>
             </div>
@@ -21,7 +21,7 @@
                         <p class="category-title">GUIDE</p>
                         <h6>The places we can't stop thinkig about right now...</h6>
                         <p>They are just that good...</p>
-                        <a class="btnLink" href="">View More <i class="fal fa-long-arrow-right"></i></a>           
+                        <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>           
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                         <p class="category-title">GUIDE</p>
                         <h6>The places we can't stop thinkig about right now...</h6>
                         <p>They are just that good...</p>
-                        <a class="btnLink" href="">View More <i class="fal fa-long-arrow-right"></i></a>    
+                        <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>    
                     </div>
                 </div>
             </div>
@@ -43,7 +43,7 @@
                         <p class="category-title">GUIDE</p>
                         <h6>The places we can't stop thinkig about right now...</h6>
                         <p>They are just that good...</p>
-                        <a class="btnLink" href="">View More <i class="fal fa-long-arrow-right"></i></a>          
+                        <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>          
                     </div>
                 </div>
             </div>
