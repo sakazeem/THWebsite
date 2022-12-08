@@ -14,7 +14,6 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/test.css">
 </head>
 
 <body>
