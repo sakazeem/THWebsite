@@ -3,6 +3,7 @@
    include('./homepage-banner.php'); 
   // include('./latest-news.php');
 ?>
+<h2>CHECKING </h2>
     
 <!-- tabs start-->
 <section class="tabs-inline">
