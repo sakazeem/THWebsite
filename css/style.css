@@ -269,12 +269,22 @@ button {
     padding: 12px 0;
 }
 
-.mainNav ul li a {
+.desktop-menu .mainNav ul li a {
     font-family: 'Neutraface Text Demi';
     font-size: 19px;
     line-height: 25px;
     font-weight: 600;
     text-transform: uppercase;
+    padding: 0;
+    color: #000 !important;
+}
+
+.mobile-menu .mainNav ul li a {
+    font-family: 'Neutraface Text Demi';
+    font-size: 19px;
+    line-height: 25px;
+    font-weight: 600;
+   
     padding: 0;
     color: #000 !important;
 }
