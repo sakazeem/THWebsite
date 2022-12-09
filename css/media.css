@@ -584,8 +584,9 @@
     .editorPick, .footer-wrapper{margin-top:20px;}
     #loading-Btn{display: block;}
     .newsFeatureSlide .placeBlock > img, .guidesBg .placeBlock > img{height: 386px;}
-    .latestBlock img{min-height: 112px;}
+    .latestBlock img{min-height: 152px;}
     .latestBlock figure{height: auto;}
+    .textBtn-Btm { display: none;}
     .date, .category{font-size: 14px;}
     .placeBottom{padding: 4px;}
     .category:before{margin: 0 5px;}
@@ -714,6 +715,4 @@
     .container.desktop-menu {
          display: none;
     }
-    
-
 }
