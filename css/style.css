@@ -1387,6 +1387,7 @@ font-family: 'Neutraface Text';*/
 }
 
 
+
 .footer-wrapper .footer-inner .nav-item {
     width: 100%;
 }
@@ -1493,7 +1494,13 @@ font-family: 'Neutraface Text';*/
     border: 8px solid transparent;
     border-bottom-color: #ffffff;
 }
-
+.footer-nav a {
+    font-family: 'Roboto', sans-serif;
+    padding: 3px 0;
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+}
 .footsocial {
     margin: 0;
     text-align: left;

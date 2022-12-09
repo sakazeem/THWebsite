@@ -20,10 +20,10 @@
             <div class="row mobileFlex">
                 <hr style="margin:40px 0; border: 2px; color: black;" />
             </div>
-            <div class="row mobileFlex">
+            <div class="row mobileFlex text-center">
                 <div class="col-md-12 footLogobg">
                     <a href="#"><img src="./images/footerlogo.png" class="img-fluid" alt="" /></a>
-                    <div class="storebtn">
+                    <div class="storebtn" style="display:block;">
                         <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt="" /></a>
                         <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt="" /></a>
                     </div>
@@ -39,69 +39,44 @@
 
         <div class="footer-inner">
             <div class="row mobileFlex">
-                <div class="col-md-3 footLogobg">
-                    <a href="#"><img src="./images/footerlogo.png" class="img-fluid" alt="" /></a>
-                    <div class="storebtn">
-                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt="" /></a>
-                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt="" /></a>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="row accordion" id="accordionExample">
+            
+             
+                <div class="col-md-12" style="margin:20px 0 4px 0;">
+                  
+                                        <ul class="list-inline text-center footer-nav">
+                                            <li class="list-inline-item">
+                                                <a href="#">Home</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">About</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">Contact</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">FAQ</a>
+                                            </li>
+                                           
+                                        </ul>
 
-                        <div class="col-md-3">
-                            <div class="accordion-item">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    <label class="link-head">Quick Links</label>
-                                </button>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                    data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <ul class="nav list-inline">
-                                            <li class="nav-item list-inline-item">
-                                                <a href="#" class="nav-link">Home</a>
+                                        
+                                        <ul class="list-inline text-center footer-nav">
+                                            <li class="list-inline-item">
+                                                <a href="#">Terms &amp; Conditions</a>
                                             </li>
-                                            <li class="nav-item list-inline-item">
-                                                <a href="#" class="nav-link">About</a>
-                                            </li>
-                                            <li class="nav-item list-inline-item">
-                                                <a href="#" class="nav-link">Contact</a>
-                                            </li>
-                                            <li class="nav-item list-inline-item">
-                                                <a href="#" class="nav-link">FAQ</a>
+                                            <li class="list-inline-item">
+                                                <a href="#">Privacy Policy</a>
                                             </li>
                                         </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-3">
-                            <div class="accordion-item">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    <label class="link-head">Legal</label>
-                                </button>
-                                <div id="collapseThree" class="accordion-collapse collapse"
-                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-                                    <div class="accordion-body">
-                                        <ul class="nav">
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">Terms &amp; Conditions</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">Privacy Policy</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                                 
+                        </div>    
+               
+
+                            
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-12">
                     <!--                        <label class="link-head responsiveLinkHead">Follow Us On:</label>-->
-                    <div class="headsocial footsocial">
+                    <div class="headsocial footsocial text-center">
                         <a href=""><img src="images/fb.png" alt="" /></a>
                         <a href=""><img src="images/insta.png" alt="" /></a>
                         <a href=""><img src="images/tiktok.png" alt="" /></a>
@@ -111,7 +86,7 @@
                 </div>
             </div>
         </div>
-        <div class="copyright">
+        <div class="copyright container-md">
             <div class="headsocial footsocial">
                 <a href=""><img src="images/fb.png" alt="" /></a>
                 <a href=""><img src="images/insta.png" alt="" /></a>
