@@ -31,65 +31,20 @@
 <!-- tabs end-->
 
 
-<!-- Trending News Start -->    
-<section class="trendingNewsSection">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h2 class="text-center">NEWS &amp; FEATURES</h2>
-            </div>
-        </div>
-        <?php include('./trending-news.php');?>
-
-    </div>
-</section>
-<!-- Trending News End -->  
-
-<!-- Latest news start-->
-<section class="latestNewsSection">   
-  <?php  include('./latest-news.php'); ?>
-</section>  
-<!-- Latest News End-->     
-
-    <section class="advertBg">
+<section class="guidesBg">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 advLft"><img src="./images/advert-01.png" alt="*" /></div>
-                <div class="col-md-6">
-                    <h2>The only guide you need.<br />
-                        With a sprinkling of<br /> exclusive perks.
-                    </h2>
-                    <p>The best of Dubai &amp; the UAE in the palm of your hand. </p>
-                    <div class="storebtn advBtn">
-                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt=""></a>
-                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt=""></a>
-                    </div>
+                <div class="col-md-12">
+                    <h2 class="upperCs hdBtn-aling">GUIDES <a href="/guides.php" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
                 </div>
             </div>
+           <?php include('./guides-carousel.php');?>
         </div>
-    </section>
-
-
-    
-<section class="trendingPlaces">
-    <div class="container">
-        <div class="row newsFeatureSlide">
-            <div class="col-md-12">
-                <h2 class="upperCs hdBtn-aling">PLACES  <a href="" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
-                <?php include('./places-carousel.php');?>
-            </div>
-            
-        </div>
-    </div>
 </section>
 
 
 
-   
-
-
-
-    <section class="editorPick">
+<section class="editorPick">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -144,19 +99,71 @@
             </div>
 
         </div>
-    </section>
+</section>
+
+<section class="trendingPlaces">
+    <div class="container">
+        <div class="row newsFeatureSlide">
+            <div class="col-md-12">
+                <h2 class="upperCs hdBtn-aling">PLACES  <a href="" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
+                <?php include('./places-carousel.php');?>
+            </div>
+            
+        </div>
+    </div>
+</section>
 
 
-    <section class="guidesBg">
+<!-- Trending News Start -->    
+<section class="trendingNewsSection">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center">NEWS &amp; FEATURES</h2>
+            </div>
+        </div>
+        <?php include('./trending-news.php');?>
+
+    </div>
+</section>
+<!-- Trending News End -->  
+
+<!-- Latest news start-->
+<section class="latestNewsSection">   
+  <?php  include('./latest-news.php'); ?>
+</section>  
+<!-- Latest News End-->     
+
+    <section class="advertBg">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
-                    <h2 class="upperCs hdBtn-aling">GUIDES <a href="/guides.php" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
+                <div class="col-md-6 advLft"><img src="./images/advert-01.png" alt="*" /></div>
+                <div class="col-md-6">
+                    <h2>The only guide you need.<br />
+                        With a sprinkling of<br /> exclusive perks.
+                    </h2>
+                    <p>The best of Dubai &amp; the UAE in the palm of your hand. </p>
+                    <div class="storebtn advBtn">
+                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt=""></a>
+                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt=""></a>
+                    </div>
                 </div>
             </div>
-           <?php include('./guides-carousel.php');?>
         </div>
     </section>
+
+
+    
+
+
+
+
+   
+
+
+
+
+
 
 
     <!-- Search-Modal -->

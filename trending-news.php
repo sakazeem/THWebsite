@@ -1,6 +1,6 @@
 <div class="row newsFeatureSlide">
     <div class="col-md-12">
-        <h3>Trending News</h3>
+        <h2 class="upperCs popinsFont5">Trending News</h2>
         <div id="newsfeatCarousal" class="owl-carousel owl-theme">
                 <div class="item">
                 <div class="placeBlock">

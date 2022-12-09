@@ -29,7 +29,7 @@
   <div class="container">
     <div id="contentScroll" class="row">
         <div class="col-md-12">
-            <h3>Latest Guide</h3>
+            <h2 class="upperCs popinsFont5">Latest Guide</h2>
         </div>
         <div class="col-md-6 col-sm-6 col-xs-6">
             <div class="latestBlock">
