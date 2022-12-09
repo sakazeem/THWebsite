@@ -107,7 +107,7 @@
                                 <span class="closeMenu"><i class="far fa-times-circle"></i></span>
                                 <ul class="navbar-nav mb-2 mb-lg-0">
                                 <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> NEWS & FEATURES</a>
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> NEWS & FEATURES</a>
           <ul class="dropdown-menu">
             <li><a href="#">Latest News</a></li>
             <li><a href="#">Trending</a></li>
@@ -118,7 +118,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Places</a>
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PLACES</a>
           <ul class="dropdown-menu">
             <li><a href="#">Explore & Search Page</a></li>
             <li><a href="#">Specialty Coffee </a></li>
@@ -134,7 +134,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GUIDES</a>
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GUIDES</a>
           <ul class="dropdown-menu">
             <li><a href="#">Latest Guides </a></li>
             <li><a href="#">Trending</a></li>
@@ -150,7 +150,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
           <ul class="dropdown-menu">
             <li><a href="#">HUNTR Member Perks</a></li>
             <li><a href="#">HUNTR Coffee Card </a></li>
@@ -158,7 +158,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR STORE</a>
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR STORE</a>
           <ul class="dropdown-menu">
             <li><a href="#">Buy HUNTR Membership Gift</a></li>
             <li><a href="#">Experiences (coming soon)</a></li>
@@ -166,7 +166,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT</a>
+          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" id="dropdownMenuLink" >ABOUT</a>
           <ul class="dropdown-menu">
             <li><a href="#">FAQs</a></li>
             <li><a href="#">Meet The HUNTR</a></li>
@@ -174,12 +174,7 @@
             <li><a href="#">Editorial Policy</a></li>
           </ul>
         </li>
-                                    
-                                    
-                                   
-                                
-          
-                                </ul>
+    </ul>
                                 <div class="headsocial mobSocial">
                                     <a href=""><img src="images/fb.png" alt="" /></a>
                                     <a href=""><img src="images/insta.png" alt="" /></a>

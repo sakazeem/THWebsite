@@ -1684,3 +1684,18 @@ nav#mobile{display: none;}
 .container.subscribe {
     max-width:1200px;
 }
+.dropdown-menu {
+    border: 0px !important;
+}
+
+.dropdown-menu li a {
+    padding: 5px 15px 5px 25px !important;
+    font-family: 'Neutraface Text Demi';
+    font-size: 19px;
+    line-height: 25px;
+    font-weight: 600;
+    color: #000 !important;
+}
+.subscription .newsLetterForm button {
+    right: auto !important;
+}

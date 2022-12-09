@@ -21,7 +21,7 @@
                 <hr style="margin:40px 0; border: 2px; color: black;" />
             </div>
             <div class="row mobileFlex text-center">
-                <div class="col-md-12 footLogobg">
+                <div class="col-md-12">
                     <a href="#"><img src="./images/footerlogo.png" class="img-fluid" alt="" /></a>
                     <div class="storebtn" style="display:block;">
                         <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt="" /></a>
