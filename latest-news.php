@@ -2,7 +2,7 @@
 <div class="container">
     <div class="row">
     <div class="col-md-12">
-        <h3 class="hdBtn-aling">Latest News <a href="/news-and-features.php" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h3>
+        <h2 class="upperCs hdBtn-aling">Latest News <a href="/news-and-features.php" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
     </div>
     <div class="col-md-6 col-sm-6 col-xs-6">
         <div class="latestBlock">
