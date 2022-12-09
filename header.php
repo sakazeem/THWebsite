@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
 </head>
-
 <body>
     <div class="stickyMain">
         <div class="addBg">
@@ -32,7 +31,6 @@
             </div>
         </div>
     </div>
-
     <section class="logoBar">
         <div class="container">
             <div class="row">
@@ -58,7 +56,6 @@
                 <div class="col-md-12">
                     <div class="mainNav">
                         <nav class="navbar navbar-expand-lg ">
-
                             <!-- <a class="navbar-brand" href="#">Navbar</a>-->
                             
                             
@@ -86,18 +83,14 @@
                                     </li>
                                 </ul>
                                
-
                             </div>
                             
-
                         </nav>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-
    
     <section>
         <div class="container mobile-menu">
@@ -105,7 +98,6 @@
                 <div class="col-md-12">
                     <div class="mainNav">
                         <nav class="navbar navbar-expand-lg">
-
                             <!--                                <a class="navbar-brand" href="#">Navbar</a>-->
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="navbar-toggler-icon"><i class="far fa-bars"></i></span>
@@ -193,16 +185,9 @@
                                     <a href=""><img src="images/insta.png" alt="" /></a>
                                     <a href=""><img src="images/tiktok.png" alt="" /></a>
                                 </div>
-
                             </div>
                             <button class="modalSrchBtn responsiveModalSrch" data-bs-toggle="modal" data-bs-target="#srchModal"><i class="far fa-search"></i></button>
-
                         </nav>
-
-
-
-
-
                         
                     </div>
                 </div>
