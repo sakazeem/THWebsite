@@ -113,6 +113,24 @@
     </div>
 </section>
 
+<section class="advertBg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 advLft"><img src="./images/advert-01.png" alt="*" /></div>
+                <div class="col-md-6">
+                    <h2>The only guide you need.<br />
+                        With a sprinkling of<br /> exclusive perks.
+                    </h2>
+                    <p>The best of Dubai &amp; the UAE in the palm of your hand. </p>
+                    <div class="storebtn advBtn">
+                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt=""></a>
+                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
 <!-- Trending News Start -->    
 <section class="trendingNewsSection">
@@ -134,23 +152,7 @@
 </section>  
 <!-- Latest News End-->     
 
-    <section class="advertBg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 advLft"><img src="./images/advert-01.png" alt="*" /></div>
-                <div class="col-md-6">
-                    <h2>The only guide you need.<br />
-                        With a sprinkling of<br /> exclusive perks.
-                    </h2>
-                    <p>The best of Dubai &amp; the UAE in the palm of your hand. </p>
-                    <div class="storebtn advBtn">
-                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt=""></a>
-                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
 
 
     
@@ -183,5 +185,5 @@
 
 
 <?php 
-   include('./footer.php'); 
+   include('./footer-02.php'); 
 ?>
