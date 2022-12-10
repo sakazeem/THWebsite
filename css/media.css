@@ -575,6 +575,7 @@
     .owl-next span::before, .owl-prev span::before{font-size: 24px !important;}
     .advertBg{padding: 20px 0;}
     .advertBg{margin-top: 20px;}
+    .subscription .newsLetterForm button { right: 2px !important;}
     .placeBlock{margin-bottom: 10px;}
     .newsFeatureSlide h3, .trendingPlaces{padding-top: 0;}
     .editorPick{padding: 20px 0 20px 0;}
@@ -586,6 +587,7 @@
     .newsFeatureSlide .placeBlock > img, .guidesBg .placeBlock > img{height: 386px;}
     .latestBlock img{min-height: 152px;}
     .latestBlock figure{height: auto;}
+    .newsletter p {margin: 15px 55px;}
     .textBtn-Btm { display: none;}
     .date, .category{font-size: 14px;}
     .placeBottom{padding: 4px;}

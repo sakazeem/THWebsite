@@ -23,12 +23,8 @@
                 <figure class="col-md-4 col-sm-6 col-xs-6"><img src="images/feat2.jpg" alt="*" /></figure>
                 <div class="col-md-8 col-sm-6 col-xs-6">
                     <h6>Food</h6>
-                    <h5>Bonds: A charming specialty coffee gem on Al Wasl</h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying
-                        challeng... </p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a>
-                        <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button>
-                    </div>
+                    <a href="#">Bonds: A charming specialty coffee gem on Al Wasl</a>
+                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying...</p>
                 </div>
             </div>
         </div>
@@ -37,12 +33,8 @@
                 <figure class="col-md-4 col-sm-6 col-xs-6"><img src="images/feat3.jpg" alt="*" /></figure>
                 <div class="col-md-8 col-sm-6 col-xs-6">
                     <h6>News &amp; Features</h6>
-                    <h5>Reach Abu Dhabi: Specialty coffee and community vibes</h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying
-                        challeng... </p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a>
-                        <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button>
-                    </div>
+                    <a href="#">Reach Abu Dhabi: Specialty coffee and community vibes</a>
+                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying...</p>
                 </div>
             </div>
         </div>
