@@ -18,7 +18,7 @@
                 <div class="dBox">
                     <img src="images/db2.jpg" alt="" />
                     <div class="dBoxTxt">
-                        <p class="category-title">GUIDE</p>
+                        <p class="category-title">PLACE</p>
                         <h3>The places we can't stop thinkig about right now...</h3>
                         <p>They are just that good...</p>
                         <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>           
@@ -29,7 +29,7 @@
                 <div class="dBox">
                     <img src="images/db3.jpg" alt="" />
                     <div class="dBoxTxt">
-                        <p class="category-title">GUIDE</p>
+                        <p class="category-title">NEWS & FEATURES</p>
                         <h3>The places we can't stop thinkig about right now...</h3>
                         <p>They are just that good...</p>
                         <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>    
@@ -40,7 +40,7 @@
                 <div class="dBox">
                     <img src="images/db1.jpg" alt="" />
                     <div class="dBoxTxt">
-                        <p class="category-title">GUIDE</p>
+                        <p class="category-title">PLACE</p>
                         <h3>The places we can't stop thinkig about right now...</h3>
                         <p>They are just that good...</p>
                         <a class="btnLink" href="/guides-detail.php">View More <i class="fal fa-long-arrow-right"></i></a>          

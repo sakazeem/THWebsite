@@ -480,7 +480,7 @@ button {
 }
 .discoverBanner .dBoxTxt .category-title{margin-bottom: 0px;}
 
-.dBoxTxt h3, .dBoxTxt h4, .dBoxTxt p{ color: #fff;}
+.dBoxTxt h3, .dBoxTxt h6, .dBoxTxt p{ color: #fff;}
 .dBoxTxt h3{font-size: 30px;
     line-height: 36px;
     margin-bottom: 5px;}
