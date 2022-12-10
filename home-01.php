@@ -133,22 +133,28 @@
 
 
 <!-- Trending News Start -->    
-<section class="trendingNewsSection">
+<!-- <section class="trendingNewsSection">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h2 class="text-center">NEWS &amp; FEATURES</h2>
             </div>
         </div>
-        <?php include('./trending-news.php');?>
+        
 
     </div>
-</section>
+</section> -->
 <!-- Trending News End -->  
 
 <!-- Latest news start-->
 <section class="latestNewsSection">   
-  <?php  include('./latest-news.php'); ?>
+<div class="container">
+       
+        <?php  include('./latest-news.php'); ?>
+       
+
+</div>
+ 
 </section>  
 <!-- Latest News End-->     
 
