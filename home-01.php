@@ -58,7 +58,7 @@
                             <div class="picksBg">
                                 <figure class="col-4"><img src="./images/pickimg.png" alt=""></figure>
                                 <div class="col-8"><h6>San Beach</h6>
-                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                <p>There are many variations of passages of Lorem Ipsum</p>
                                </div>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                             <div class="picksBg">
                             <figure class="col-4"><img src="./images/pickimg.png" alt=""></figure>
                             <div class="col-8">  <h6>San Beach</h6>
-                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                <p>There are many variations of passages of Lorem Ipsum</p>
                                 </div>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                             <div class="picksBg">
                             <figure class="col-4"><img src="./images/pickimg2.png" alt=""></figure>
                             <div class="col-8">  <h6>San Brew</h6>
-                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                <p>There are many variations of passages of Lorem Ipsum</p>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                             <div class="picksBg">
                             <figure class="col-4"><img src="./images/pickimg2.png" alt=""></figure>
                             <div class="col-8"> <h6>San Brew</h6>
-                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                <p>There are many variations of passages of Lorem Ipsum</p>
                                 </div>
                             </div>
                         </div>
