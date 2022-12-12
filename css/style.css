@@ -538,7 +538,7 @@ button {
     margin-top: 30px;
 }
 
-.newsFeatureSlide .owl-nav, .guideSlide .owl-nav {
+.newsFeatureSlide .owl-nav, .guideSlide .owl-nav, .innerBannerCarousel .owl-nav {
     position: absolute;
     top:45%;
     margin: 0 !important;
@@ -546,9 +546,12 @@ button {
     width: 100%;
 }
 
+
+
 .newsFeatureSlide .owl-prev,
 .newsFeatureSlide .owl-next, .guideSlide .owl-prev,
-.guideSlide .owl-next{
+.guideSlide .owl-next, .innerBannerCarousel .owl-prev,
+.innerBannerCarousel .owl-next{
     position: absolute;
     top: 0%;
     color: #fff !important;
@@ -571,24 +574,36 @@ button {
     font-weight: 300;
 }
 
-.newsFeatureSlide .owl-next span::before, .guideSlide .owl-next span::before {
+.newsFeatureSlide .owl-next span::before, .guideSlide .owl-next span::before  {
     content: "\f178";
     font-family: "Font Awesome 5 Pro";
     font-size: 33px;
     font-weight: 300;
 }
+.innerBannerCarousel .owl-prev span::before{
+    content: "\f104";
+    font-family: "Font Awesome 5 Pro";
+    font-size: 33px;
+    font-weight: 300;
+}
+.innerBannerCarousel .owl-next span::before{
+    content: "\f105";
+    font-family: "Font Awesome 5 Pro";
+    font-size: 33px;
+    font-weight: 300;
+}
 
-.newsFeatureSlide .owl-prev, .guideSlide .owl-prev  {
+.newsFeatureSlide .owl-prev, .guideSlide .owl-prev, .innerBannerCarousel .owl-prev  {
     /* left: -20px; */
     left: 0;
 }
 
-.newsFeatureSlide .owl-next, .guideSlide .owl-next {
+.newsFeatureSlide .owl-next, .guideSlide .owl-next, .innerBannerCarousel .owl-next {
     /* right: -20px; */
     right: 0;
 }
 
-.newsFeatureSlide .owl-prev span, .guideSlide .owl-prev span, .newsFeatureSlide .owl-next span,  .guideSlide .owl-next span{
+.newsFeatureSlide .owl-prev span, .guideSlide .owl-prev span, .newsFeatureSlide .owl-next span,  .guideSlide .owl-next span,  .innerBannerCarousel .owl-next span,  .innerBannerCarousel .owl-prev span{
     font-size: 0px;
     line-height: 10px;
     color: #fff;
@@ -1639,19 +1654,34 @@ font-family: 'Neutraface Text';*/
 .gridGuideList .col-md-4 > p{color: #000; margin-top: 15px; font-family: 'Poppins', sans-serif; font-weight:400;}
 .gridGuideList .col-md-4 a{font-size: 16px; font-weight: 600;}
 .border-curve{ max-width: 1400px; margin: 0 auto;border-radius: 25px 25px 0px 0; z-index:2;position: relative; margin-top: -20px; background-color: #fff;}
-nav#desktop{display: block;}
-nav#mobile{display: none;}
+nav#desktop, .desktop-menu{display: block;}
+nav#mobile, .mobile-menu{display: none;}
 .placesList{    box-shadow: 0px 0px 11px rgba(0,0,0,0.2);border-radius: 11px; margin-top:20px;}
 .placesList .h5{ font-size: 22px;line-height: 28px;font-weight:500;color: #000;font-family: 'Poppins', sans-serif;     min-height: 56px;
     display: inline-block; text-transform: capitalize;}
 .placesList img{width: 100%; height: auto; border-radius: 11px 11px 0 0;}
 .placesList{display: flex; flex-direction: column;}
-.placesList h5, .placesList h6{font-family: 'Poppins', sans-serif; }
+.placesList h5, .placesList h6, .time,.location-detail a, .ups-list, .placesList p{font-family: 'Poppins', sans-serif; }
 .placesList h6{font-weight: 400; font-size: 18px; text-transform: uppercase; color: #000; margin-top: 10px;
     display: flex; justify-content: space-between;
 }
 .placesList h6 i{margin-left: 10px;}
 .placesList .text{padding: 0 15px 15px 15px;}
+.placesList p{color: #000;}
+.location-detail{margin: 15px 0;}
+.time,.location-detail a, .location-detail i{font-size: 18px; text-transform: capitalize;}
+.time{margin-top: 15px;}
+.location-detail a{text-decoration: underline;}
+.location-detail i, .time i, .ups-list li i{margin-right: 5px; min-width: 18px;}
+.location-detail a:hover{color:#9C9C9C;}
+.ups-list{display: flex; justify-content: space-between; list-style: none; padding: 0; color: #000;}
+.ups-list li{font-weight: 600;text-transform: capitalize; color: #000; }
+.border-curve h3{position: relative;}
+.border-curve .placeUsr{position: absolute; right: 0; top: 5px;}
+.border-curve .placeUsr .share-btn, .contentArea h6{color: #000;}
+.innerBannerCarousel{padding: 0;}
+.hd-width90{max-width: 90%; display: inline-block;}
+#perksCarousel .owl-stage-outer{padding-bottom: 10px;}
 
 
 

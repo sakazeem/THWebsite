@@ -221,7 +221,7 @@
             }
         });
 
-        var newsfeat = $("#newsfeatCarousal, #guideCarousal");
+        var newsfeat = $("#newsfeatCarousal, #guideCarousal, #perksCarousel");
 
         newsfeat.owlCarousel({
             loop: true,
@@ -279,6 +279,20 @@
         });
 
 
+        var innerBannerCarousel = $("#innerBannerCarousel");
+
+        innerBannerCarousel.owlCarousel({
+            loop: true,
+            nav: true,
+            //center: true,
+            items: 1,
+            margin:0,
+            autoplay: true,
+            dots: false,
+            autoplayTimeout: 85000,
+            smartSpeed: 450,
+        });
+
     </script>
     <script>
         $(window).scroll(function() {
@@ -293,7 +307,7 @@
     <script>
         $(document).ready(function() {
             //custom button for homepage
-            $(".share-btn").click(function(e) {
+            $(".share-button").click(function(e) {
                 $('.networks-5').not($(this).find(".networks-5")).each(function() {
                     $(this).removeClass("active");
                 });

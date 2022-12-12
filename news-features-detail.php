@@ -43,8 +43,8 @@
       asked us if we could create some guides as part of their wider Dubai Destinations Project for the Dubai Media Concil - which higlights various activities, locations and experiences in dubai...</p>
     <h5 class="clearfix">"After receiving the prestigious honour of being bestowed with the 10-Year Golden Visa by the Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam delectus unde repudiandae placeat dolorum cumque sed in quasi velit, assumenda corrupti exercitationem dolores rem necessitatibus, molestiae veritatis ducimus beatae magni..." - Holly Williams-lioyd, The Huntr Founder</h5>
     
-      <!-- tabs start-->
-      <section class="tabs-inline">
+      <!-- imagesCarousel start-->
+      <section>
           <div id="detailImgCarousel" class="owl-carousel owl-theme">
               <div class="item">
               <img src="./images/detail-01.jpg" alt="*">
@@ -60,7 +60,7 @@
               </div>
           </div>
       </section>
-      <!-- tabs end-->
+      <!-- imagesCarousel end-->
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at. Deserunt?</p>
       <hr>
       <div class="website-link"><a href="#"><i class="fa fa-globe"></i>branddubai.com</a></div>
