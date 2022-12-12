@@ -3,15 +3,10 @@
 <!-- Inner Banner Start -->   
 <section class="inner-banner">
   <div class="container-fluid">    
-    <div class="row">
-    <div id="innerBannerCarousel" class="owl-carousel owl-theme innerBannerCarousel">
-            <div class="item">
-                <img src="./images/news-banner.jpg" alt="*">
-            </div>
-            <div class="item">
-                <img src="./images/news-banner.jpg" alt="*">
-            </div>
-       </div>
+    <div class="row top-banner">
+       
+
+        <img src="./images/news-banner.jpg" alt="*">
     </div>
   </div>
 </section>
@@ -21,8 +16,8 @@
 <section class="contentArea border-curve">
     <div class="container">
       <div class="box">
-        <h3><span class="hd-width90">Lucia's: An upscale italian affair in Down Town</span>
-           <div class="placeUsr">
+      <h3>Lucia's: An upscale</h3>
+            <div class="placeUsr">
                 <!-- <a href=""><i class="far fa-share-alt"></i></a>--> 
                 <div class="share-button sharer">
                     <button type="button" class="share-btn"><i class="fal fa-paper-plane"></i></button>
@@ -40,53 +35,10 @@
                 </div>
 
             </div>   
-        </h3>
-        <div class="time">
-         <i class="far fa-clock"></i> open now
-        </div>
-        <div class="location-detail">
-         <i class="far fa-map-marker-alt"></i><a href="javascript:void(0);">45 burj Khalifa street, dubai</a>
-        </div>
-        <h6>USPs</h6>
-        <ul class="ups-list">
-            <li><i class="far fa-check"></i> Licensed Bar</li>
-            <li><i class="far fa-check"></i> Special Ocassions</li>
-            <li><i class="far fa-check"></i> Birthdays</li>
-            <li><i class="far fa-check"></i> Feeling Fancy </li>
-            <li><i class="far fa-check"></i> italian</li>
-            <li><i class="far fa-check"></i> Views</li>
-            <li><i class="far fa-check"></i> outside seating</li>
-        </ul>
-       <hr>
        <p><span class="largeLetter">D</span>ubai and the UAE is filled with wonerful places. We are not short of fantastic resturants, cafes and new gems
-       are popping up, daily, But sometimes we visit a place and we leave, if we could create some guides as part of their wider Dubai Destinations Project for the Dubai Media Concil - which higlights various activities, locations and experiences in dubai Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
-       
-       
-        <!-- imagesCarousel start-->
-        <section>
-          <div id="detailImgCarousel" class="owl-carousel owl-theme">
-              <div class="item">
-              <img src="./images/place-detail-01.jpg" alt="*">
-              </div>
-              <div class="item">
-              <img src="./images/place-detail-02.jpg" alt="*">
-              </div>
-              <div class="item">
-              <img src="./images/place-detail-01.jpg" alt="*">
-              </div>
-              <div class="item">
-              <img src="./images/place-detail-02.jpg" alt="*">
-              </div>
-          </div>
-      </section>
-      <!-- imagesCarousel end-->  
-
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore odit quis vel dolor similique nobis delectus, recusandae impedit, accusantium porro est eum eos modi quae? Est dolorum aspernatur repellendus maiores. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nemo exercitationem velit, cupiditate voluptatum voluptates ab officia eum necessitatibus dolorum asperiores, fuga sed explicabo, maiores quos ipsum facilis aperiam vel!</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed aut recusandae vitae expedita aspernatur, dolor voluptate fugiat dignissimos inventore vel cumque, molestiae qui debitis repellendus reprehenderit ducimus! A, excepturi adipisci</p>
-      <hr>
-      <div class="website-link"><a href="#"><i class="fa fa-globe"></i>branddubai.com</a></div>
-      <div class="author-link">By<a href="#"><img class="author-img" src="images/john.png" alt="*"> The HUNTR</a></div>
-
+       are popping up, daily, But sometimes we visit a place and we leave, if we could create some guides as part of their wider Dubai Destinations Project for the Dubai Media Concil - which higlights various activities, locations and experiences in dubai...</p>
+       <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
+       <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
       </div>  
     </div>
 
@@ -94,12 +46,206 @@
 <!-- contentArea End -->
 
 
+    
+<section class="gridGuideList">
+    <div class="container">
+        <div class="row newsFeatureSlide">
+            <div class="col-md-4 col-sm-12">
+                <div class="placeBlock">
+                    <div class="placeTop">
+                    <img src="./images/icon-perk.png" class="emoji" alt="">
+                    <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
+
+                    <div>&nbsp;</div>
+                    
+                        <?php
+                            include('./share-button.php'); 
+                        ?>
+                    
+                    </div>
+                    <div class="placeMiddle">
+                    <h5>RESERVATIONS RECOMMENDED</h5>
+                    </div>
+                    
+                    <img src="./images/place1.png" class="img-fluid" alt="">
+                    
+                    <div class="dBoxTxt">
+                        <h5>RESTURANT & BARS IN DUBAI</h5>
+                        <h6>Demo sub heading will be here</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit iure tempore illum rem amet, officiis non in nobis, facilis aspernatur adipisci nulla tempora qui fugiat voluptatibus beatae voluptatum nemo! Cum.</p>
+                <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
+                <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="placeBlock">
+                    <div class="placeTop">
+                    <a class="location" href="">
+                    <img src="./images/icon-perk.png" class="emoji" alt="">
+                    <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
+
+                    <div>&nbsp;</div>
+                    
+                        <?php
+                            include('./share-button.php'); 
+                        ?>
+                    
+                    </div>
+                    <div class="placeMiddle">
+                    <h5>RESERVATIONS RECOMMENDED</h5>
+                    <h5>LICENSED</h5>
+                    <h5>OUTSIDE SITTING</h5>
+                    </div>
+                    
+                    <img src="./images/place2.png" class="img-fluid" alt="">
+                    
+                    <div class="dBoxTxt">
+                        <h5>RESTURANT & BARS IN DUBAI</h5>
+                        <h6>Demo sub heading will be here</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit iure tempore illum rem amet, officiis non in nobis, facilis aspernatur adipisci nulla tempora qui fugiat voluptatibus beatae voluptatum nemo! Cum.</p>
+                <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
+                <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="placeBlock">
+                    <div class="placeTop">
+                    <a class="location" href="">
+                    <img src="./images/icon-perk.png" class="emoji" alt="">
+                    <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
+
+                    <div>&nbsp;</div>
+                    
+                        <?php
+                            include('./share-button.php'); 
+                        ?>
+                    
+                    </div>
+                    <div class="placeMiddle">
+                    <h5>RESERVATIONS RECOMMENDED</h5>
+                    </div>
+                    
+                    <img src="./images/place3.png" class="img-fluid" alt="">
+                    
+                    <div class="dBoxTxt">
+                        <h5>RESTURANT & BARS IN DUBAI</h5>
+                        <h6>Demo sub heading will be here</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit iure tempore illum rem amet, officiis non in nobis, facilis aspernatur adipisci nulla tempora qui fugiat voluptatibus beatae voluptatum nemo! Cum.</p>
+                <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
+                <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="placeBlock">
+                    <div class="placeTop">
+                    <a class="location" href="">
+                    <img src="./images/icon-perk.png" class="emoji" alt="">
+                    <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
+
+                    <div>&nbsp;</div>
+                    
+                        <?php
+                            include('./share-button.php'); 
+                        ?>
+                    
+                    </div>
+                    <div class="placeMiddle">
+                    <h5>RESERVATIONS RECOMMENDED</h5>
+                    <h5>LICENSED</h5>
+                    <h5>OUTSIDE SITTING</h5>
+                    </div>
+                    
+                    <img src="./images/place4.png" class="img-fluid" alt="">
+                    
+                    <div class="dBoxTxt">
+                        <h5>RESTURANT & BARS IN DUBAI</h5>
+                        <h6>Demo sub heading will be here</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit iure tempore illum rem amet, officiis non in nobis, facilis aspernatur adipisci nulla tempora qui fugiat voluptatibus beatae voluptatum nemo! Cum.</p>
+                <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
+                <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="placeBlock">
+                    <div class="placeTop">
+                    <a class="location" href="">
+                    <img src="./images/icon-perk.png" class="emoji" alt="">
+                    <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
+
+                    <div>&nbsp;</div>
+                    
+                        <?php
+                            include('./share-button.php'); 
+                        ?>
+                    
+                    </div>
+                    <div class="placeMiddle">
+                    <h5>RESERVATIONS RECOMMENDED</h5>
+                    <h5>LICENSED</h5>
+                    <h5>OUTSIDE SITTING</h5>
+                    </div>
+                    
+                    <img src="./images/place5.png" class="img-fluid" alt="">
+                    
+                    <div class="dBoxTxt">
+                        <h5>RESTURANT & BARS IN DUBAI</h5>
+                        <h6>Demo sub heading will be here</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit iure tempore illum rem amet, officiis non in nobis, facilis aspernatur adipisci nulla tempora qui fugiat voluptatibus beatae voluptatum nemo! Cum.</p>
+                <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos, consequatur asperiores voluptas veniam nam deserunt cumque at.</p>
+                <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="placeBlock">
+                    <div class="placeTop">
+                    <img src="./images/icon-perk.png" class="emoji" alt="">
+                    <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
+
+                    <div>&nbsp;</div>
+                    
+                        <?php
+                            include('./share-button.php'); 
+                        ?>
+                    
+                    </div>
+                    <div class="placeMiddle">
+                    <h5>RESERVATIONS RECOMMENDED</h5>
+                    <h5>LICENSED</h5>
+                    <h5>OUTSIDE SITTING</h5>
+                    </div>
+                    
+                    <img src="./images/place1.png" class="img-fluid" alt="">
+                    
+                    <div class="dBoxTxt">
+                        <h5>RESTURANT & BARS IN DUBAI</h5>
+                        <h6>Demo sub heading will be here</h6>
+                    </div>
+                </div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit iure tempore illum rem amet, officiis non in nobis, facilis aspernatur adipisci nulla tempora qui fugiat voluptatibus beatae voluptatum nemo! Cum.</p>
+                <p class="content-hide">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus nemo, non officia iste, reiciendis minima vero aliquam architecto dolorum nulla necessitatibus et cumque veniam sed? Iusto rerum vero pariatur minima. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis provident similique placeat. Maiores iure assumenda eligendi quasi, reiciendis in fugiat eos.</p>
+                <a href="javascript:void(0);" class="show_hide" data-content="toggle-text">Read More <i class="fa fa-angle-down"></i></a>
+            </div>
+        </div>
+        <hr>
+        <div class="website-link"><a href="#"><i class="fa fa-globe"></i>branddubai.com</a></div>
+        <div class="author-link">By<a href="#"><img class="author-img" src="images/john.png" alt="*"> The HUNTR</a></div>
+    </div>
+</section>
+
+
+
+
 
 <!-- discoverNewsSection News Start -->    
-<section class="discoverNewsSection greyBg newsFeatureSlide">
+<section class="discoverNewsSection greyBg guidesBg">
     <div class="container">
         <h3>Discover More</h3>
-        <?php include('./places-carousel.php');?>
+        <?php include('./guides-carousel.php');?>
 
     </div>
 </section>
