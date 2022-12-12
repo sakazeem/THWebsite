@@ -31,89 +31,27 @@
 <!-- tabs end-->
 
 
-<section class="guidesBg">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="upperCs hdBtn-aling">GUIDES <a href="/guides.php" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
-                </div>
-            </div>
-           <?php include('./guides-carousel.php');?>
-        </div>
-</section>
-
-
-
-<section class="editorPick">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <h2 class="upperCs">Huntr editor’s picks</h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12">
-                    <div id="editorCarousel" class="owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="picksBg">
-                                <figure class="col-4"><img src="./images/pickimg.png" alt=""></figure>
-                                <div class="col-8"><h6>San Beach</h6>
-                                <p>There are many variations of passages of Lorem Ipsum</p>
-                               </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="picksBg">
-                              <figure class="col-4"> <img src="./images/pickimg2.png" alt=""></figure>
-                              <div class="col-8"> <h6>San Brew</h6>
-                                <p>There are many variations of passages of Lorem Ipsum</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="picksBg">
-                            <figure class="col-4"><img src="./images/pickimg.png" alt=""></figure>
-                            <div class="col-8">  <h6>San Beach</h6>
-                                <p>There are many variations of passages of Lorem Ipsum</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="picksBg">
-                            <figure class="col-4"><img src="./images/pickimg2.png" alt=""></figure>
-                            <div class="col-8">  <h6>San Brew</h6>
-                                <p>There are many variations of passages of Lorem Ipsum</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="picksBg">
-                            <figure class="col-4"><img src="./images/pickimg2.png" alt=""></figure>
-                            <div class="col-8"> <h6>San Brew</h6>
-                                <p>There are many variations of passages of Lorem Ipsum</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-</section>
-
-<section class="trendingPlaces">
+<!-- Trending News Start -->    
+<section class="trendingNewsSection">
     <div class="container">
-        <div class="row newsFeatureSlide">
+        <div class="row">
             <div class="col-md-12">
-                <h2 class="upperCs hdBtn-aling">PLACES  <a href="" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
-                <?php include('./places-carousel.php');?>
+                <h2 class="text-center">NEWS &amp; FEATURES</h2>
             </div>
-            
         </div>
+        <?php include('./trending-news.php');?>
+
     </div>
 </section>
+<!-- Trending News End -->  
 
-<section class="advertBg">
+<!-- Latest news start-->
+<section class="latestNewsSection">   
+  <?php  include('./latest-news.php'); ?>
+</section>  
+<!-- Latest News End-->     
+
+    <section class="advertBg">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 advLft"><img src="./images/advert-01.png" alt="*" /></div>
@@ -132,37 +70,18 @@
     </section>
 
 
-<!-- Trending News Start -->    
-<!-- <section class="trendingNewsSection">
+    
+<section class="trendingPlaces">
     <div class="container">
-        <div class="row">
+        <div class="row newsFeatureSlide">
             <div class="col-md-12">
-                <h2 class="text-center">NEWS &amp; FEATURES</h2>
+                <h2 class="upperCs hdBtn-aling">PLACES  <a href="" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
+                <?php include('./places-carousel.php');?>
             </div>
+            
         </div>
-        
-
     </div>
-</section> -->
-<!-- Trending News End -->  
-
-<!-- Latest news start-->
-<section class="latestNewsSection">   
-<div class="container">
-       
-        <?php  include('./latest-news.php'); ?>
-       
-
-</div>
- 
-</section>  
-<!-- Latest News End-->     
-
-    
-
-
-    
-
+</section>
 
 
 
@@ -170,8 +89,74 @@
 
 
 
+    <section class="editorPick">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="upperCs">Huntr editor’s picks</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="editorCarousel" class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="picksBg">
+                                <figure class="col-4"><img src="./images/pickimg.png" alt=""></figure>
+                                <div class="col-8"><h6>San Beach</h6>
+                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                               </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="picksBg">
+                              <figure class="col-4"> <img src="./images/pickimg2.png" alt=""></figure>
+                              <div class="col-8"> <h6>San Brew</h6>
+                                <p>There are many variations of passages of Lorem Ipsum</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="picksBg">
+                            <figure class="col-4"><img src="./images/pickimg.png" alt=""></figure>
+                            <div class="col-8">  <h6>San Beach</h6>
+                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="picksBg">
+                            <figure class="col-4"><img src="./images/pickimg2.png" alt=""></figure>
+                            <div class="col-8">  <h6>San Brew</h6>
+                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="picksBg">
+                            <figure class="col-4"><img src="./images/pickimg2.png" alt=""></figure>
+                            <div class="col-8"> <h6>San Brew</h6>
+                                <p>There are many variations of passages of Lorem Ipsum available</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
 
 
+    <section class="guidesBg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="upperCs hdBtn-aling">GUIDES <a href="/guides.php" class="viewMbtn">View More <i class="fal fa-long-arrow-right"></i></a></h2>
+                </div>
+            </div>
+           <?php include('./guides-carousel.php');?>
+        </div>
+    </section>
 
 
     <!-- Search-Modal -->
@@ -191,5 +176,5 @@
 
 
 <?php 
-   include('./footer-02.php'); 
+   include('./footer.php'); 
 ?>
