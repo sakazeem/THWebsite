@@ -1,7 +1,9 @@
 @media(max-width:1399px) {
     .mainNav ul li {
-        margin: 0 10px;
+        margin: 0px 10px;
     }
+
+   
 }
 
 @media(max-width:1299px) {
@@ -701,20 +703,5 @@
         line-height: 20px;
         top: 5px;
 */
-    }
-}
-@media screen and (min-width: 700px) {
-
-    .container.mobile-menu {
-         display: none;
-    }
-    
-
-}
-
-@media screen and (max-width: 700px) {
-
-    .container.desktop-menu {
-         display: none;
     }
 }

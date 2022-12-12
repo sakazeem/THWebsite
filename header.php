@@ -14,6 +14,24 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+
+    <style>
+
+  
+      @media all and (min-width: 990px) {
+	
+	.navbar .nav-item .dropdown-menu{  display:block; opacity: 0;  visibility: hidden; transition:.3s; margin-top:0;  }
+
+	
+	.navbar .nav-item:hover .dropdown-menu{ transition: .3s; opacity:1; visibility:visible; top:100%; transform: rotateX(0deg); }
+}	
+@media all and (min-width: 990px) {
+	.dropdown-toggle::after{
+    display:none;
+  }
+}	
+    </style>
 </head>
 <body>
     <div class="stickyMain">
@@ -50,50 +68,10 @@
             </div>
         </div>
     </section>
-    <section>
-        <div class="container desktop-menu">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="mainNav">
-                        <nav class="navbar navbar-expand-lg ">
-                            <!-- <a class="navbar-brand" href="#">Navbar</a>-->
-                            
-                            
-                            <div class="collapse navbar-collapse deskCentr">
-                               
-                                <ul class="navbar-nav mb-2 mb-lg-0">
-                                    <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page"
-                                            href="/news-and-features.php">News &amp; Features</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="/places.php">Places</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="/guides.php">Guides</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">The Huntr Membership</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">The Huntr Store</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="nav-link" href="#">About</a>
-                                    </li>
-                                </ul>
-                               
-                            </div>
-                            
-                        </nav>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
    
     <section>
-        <div class="container mobile-menu">
+        <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="mainNav">
@@ -189,3 +167,4 @@
             </div>
         </div>
     </section>
+  
