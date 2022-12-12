@@ -1,9 +1,7 @@
 @media(max-width:1399px) {
     .mainNav ul li {
-        margin: 0px 10px;
+        margin: 0 10px;
     }
-
-   
 }
 
 @media(max-width:1299px) {
@@ -577,7 +575,6 @@
     .owl-next span::before, .owl-prev span::before{font-size: 24px !important;}
     .advertBg{padding: 20px 0;}
     .advertBg{margin-top: 20px;}
-    .subscription .newsLetterForm button { right: 2px !important;}
     .placeBlock{margin-bottom: 10px;}
     .newsFeatureSlide h3, .trendingPlaces{padding-top: 0;}
     .editorPick{padding: 20px 0 20px 0;}
@@ -587,10 +584,8 @@
     .editorPick, .footer-wrapper{margin-top:20px;}
     #loading-Btn{display: block;}
     .newsFeatureSlide .placeBlock > img, .guidesBg .placeBlock > img{height: 386px;}
-    .latestBlock img{min-height: 152px;}
+    .latestBlock img{min-height: 112px;}
     .latestBlock figure{height: auto;}
-    .newsletter p {margin: 15px 55px;}
-    .textBtn-Btm { display: none;}
     .date, .category{font-size: 14px;}
     .placeBottom{padding: 4px;}
     .category:before{margin: 0 5px;}
@@ -601,12 +596,19 @@
     .greyBg{padding: 30px 0; margin-top:20px;}
     .website-link, .author-link,.smallHD{font-size: 16px;}
     .picksBg img{max-width: 80px !important; width: 90%; padding: 2px;}
+    .contentArea{padding-top: 20px;}
     .contentArea p{margin-bottom: 10px;}
     .smallHD .icon-huntr { width: 30px;height: 30px; margin-right: 10px;}
-    nav#desktop{display: none;}
-    nav#mobile{display: block;}
+    nav#desktop, .desktop-menu{display: none;}
+    nav#mobile, .mobile-menu{display: block;}
     .placesList .h5{font-size: 18px;}
     .placesList h6{font-size: 16px; margin-top: 0;}
+    .ups-list li{width: 50%;}
+    .ups-list { justify-content: flex-start;  flex-wrap: wrap;}
+    .innerBannerCarousel .owl-nav {top:35%;}
+    .border-curve .placeUsr{top:0;}
+    .time, .location-detail a, .location-detail i{font-size: 16px;}
+    .location-detail{margin: 10px 0;}
 
 
 }
