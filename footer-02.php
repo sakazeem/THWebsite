@@ -162,7 +162,7 @@ editorcarosal.owlCarousel({
     loop: true,
     nav: true,
     //            center: true,
-    items: 3,
+    items: 4,
     margin: 15,
     autoplay: false,
     dots: false,
@@ -177,10 +177,10 @@ editorcarosal.owlCarousel({
             items: 2.3
         },
         991: {
-            items: 3.3
+            items: 3.7
         },
         1024: {
-            items: 3.3
+            items: 3.7
         }
     }
 });
