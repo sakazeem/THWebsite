@@ -85,8 +85,9 @@
                                 <span class="closeMenu"><i class="far fa-times-circle"></i></span>
                                 <ul class="navbar-nav mb-2 mb-lg-0">
                                 <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> NEWS & FEATURES</a>
-          <ul class="dropdown-menu">
+          <a href="https://www.google.com/" class="dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> NEWS & FEATURES</a>
+          <ul class="dropdown-menu dd-box">
+          <li><a href="#">News</a></li>
             <li><a href="#">Latest News</a></li>
             <li><a href="#">Trending</a></li>
             <li><a href="#">Food & Drink</a></li>
@@ -97,7 +98,7 @@
         </li>
         <li class="dropdown nav-item">
           <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PLACES</a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dd-box">
             <li><a href="#">Explore & Search Page</a></li>
             <li><a href="#">Specialty Coffee </a></li>
             <li><a href="#">Restaurants</a></li>
@@ -113,7 +114,7 @@
         </li>
         <li class="dropdown nav-item">
           <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">GUIDES</a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dd-box">
             <li><a href="#">Latest Guides </a></li>
             <li><a href="#">Trending</a></li>
             <li><a href="#">HUNTR Member Perks</a></li>
@@ -129,7 +130,7 @@
         </li>
         <li class="dropdown nav-item">
           <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dd-box">
             <li><a href="#">HUNTR Member Perks</a></li>
             <li><a href="#">HUNTR Coffee Card </a></li>
             <li><a href="#">The HUNTR App</a></li>
@@ -137,15 +138,15 @@
         </li>
         <li class="dropdown nav-item">
           <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR STORE</a>
-          <ul class="dropdown-menu">
+          <ul class="dropdown-menu dd-box">
             <li><a href="#">Buy HUNTR Membership Gift</a></li>
             <li><a href="#">Experiences (coming soon)</a></li>
             <li><a href="#">Gifts (coming soon)</a></li>
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" id="dropdownMenuLink" >ABOUT</a>
-          <ul class="dropdown-menu">
+          <a href='https://www.google.com/' class="dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" id="dropdownMenuLink" >ABOUT</a>
+          <ul class="dropdown-menu dd-box">
             <li><a href="#">FAQs</a></li>
             <li><a href="#">Meet The HUNTR</a></li>
             <li><a href="#">Terms & Conditions</a></li>
