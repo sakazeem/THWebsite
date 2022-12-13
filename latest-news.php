@@ -9,9 +9,8 @@
                 <figure class="col-md-4 col-sm-6 col-xs-6"><a href="#"><img src="images/feat1.jpg" alt="*" /></a></figure>
                 <div class="col-md-8 col-sm-6 col-xs-6">
                     <h6>News &amp; Features</h6>
-                    <h5><a href="#">Alaya: Mediterranean cuisine with Middle Eastern Flair</a></h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying
-                        challeng... </p>
+                    <h5><a href="#">Breaking: The winner for Abu Dhabi Loves Breakfast is announced</a></h5>
+                    <p>The votes have been counted and we are ready to announce the winner. Following 20 days of breakfast hopping, with Abu Dhabi’s foodies taking advantage of exclusive “2 for1” breakfast menus, the inaugural edition of Abu Dhabi Loves Breakfast has come... </p>
                     <!-- <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a>
                         <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button>
                     </div> -->

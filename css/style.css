@@ -692,19 +692,13 @@ button {
 }
 .latestBlock a:hover{color: #000;}
 .latestBlock h5 {
-    font-size: 18px;
-    padding-bottom: 5px;
-    font-family: 'Neutraface Text';
-    font-weight: 700;
-    line-height: 22px;
-    
+ padding-bottom: 10px;   
 }
 .latestBlock h5 a {
-    font-size: 18px;
-    padding-bottom: 5px;
+    font-size: 26px;
     font-family: 'Neutraface Text';
     font-weight: 700;
-    line-height: 22px;
+    line-height: 32px;
     color:#000000;
 }
 .latestBlock h5 a:hover {

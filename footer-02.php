@@ -180,7 +180,7 @@ editorcarosal.owlCarousel({
             items: 3.7
         },
         1024: {
-            items: 3.7
+            items: 3.5
         }
     }
 });
