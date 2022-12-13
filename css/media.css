@@ -94,11 +94,7 @@
         line-height: 20px;
     }
 
-    .latestBlock h5 {
-        font-size: 20px;
-        line-height: 22px;
-    }
-
+   
     .editorPick {
         padding-bottom: 50px;
         margin-bottom: 10px;
@@ -265,8 +261,8 @@
     .addBg.stickytop{position: static;}
     .stickytop .addsStore img, .addsStore img{width: 70px;}
     .newsFeatureSlide .placeBlock > img, .guidesBg .placeBlock > img{height: 309px;}
-    .latestBlock img{min-height: 157px;}
-    .latestBlock figure{height: auto;}
+    /* .latestBlock img{min-height: auto;}
+    .latestBlock figure{height: auto;} */
     .textBtn-Btm{position: relative; bottom: inherit;}
     
 
@@ -706,4 +702,15 @@
         top: 5px;
 */
     }
+}
+
+@media (max-width: 767px)
+{
+    .latestBlock h5 a {
+    font-size: 20px;
+    font-family: 'Neutraface Text';
+    font-weight: 700;
+    line-height: 26px;
+    color:#000000;
+}
 }
