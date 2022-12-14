@@ -165,13 +165,22 @@
 <!-- Trending News End -->  
 
 <!-- Latest news start-->
-<section class="latestNewsSection">   
-<div class="container">
+<section class="latestNewsSection home">   
+
+<div class="container desktop-latest-news">
+    <div class="row">
+        <div class="col-md-12">
+            <h2 class="upperCs hdBtn-aling">NEWS &amp; FEATURES <a href="/news-and-features.php" class="viewMbtn">View More <i
+                        class="fal fa-long-arrow-right"></i></a></h2>
+        </div>
        
         <?php  include('./latest-news.php'); ?>
+
+        </div>
+</div>
        
 
-</div>
+
  
 </section>  
 <!-- Latest News End-->     

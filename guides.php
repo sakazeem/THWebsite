@@ -24,13 +24,36 @@
 </section>
 <!-- Guides End --> 
 
+<!-- Filter -->
+
+<section class="tabs-inline">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="chooseOption">
+                        <button>Latest Guides</button>
+                        <button>Trending</button>
+                        <button>HUNTR Member Perks</button>
+                        <button>The HUNTR Coffee Card</button>
+                        <button>Restaurants</button>
+                        <button>Cafes</button>
+                        <button>Specialty Coffee</button>
+                        <button>Outdoor Activities</button>
+                        <button>Art & Culture</button>
+                        <button>Travel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- filters end -->
+
 <!-- Latest news start-->
 <section class="latestNewsSection">
   <div class="container">
     <div id="contentScroll" class="row">
-        <div class="col-md-12">
-            <h2 class="upperCs popinsFont5">Latest Guide</h2>
-        </div>
+      
         <div class="col-md-6 col-sm-6 col-xs-6">
             <div class="latestBlock">
                 <figure class="col"><img src="images/guide-img01.jpg" alt="*" /></figure>
@@ -38,7 +61,7 @@
                     <h6>Outdoor Activities <span class="dot">26 places</span></h6>
                     <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5>
                     <p>immerse yourself in 17th-18th century Versailles</p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
+                    
                 </div>
             </div>
         </div>
@@ -49,7 +72,7 @@
                     <h6>Restuarants <span class="dot">26 places</span></h6>
                     <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5>
                     <p>immerse yourself in 17th-18th century Versailles</p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
+                    
                 </div>
             </div>
         </div>
@@ -60,7 +83,7 @@
                     <h6>Outdoor Activities <span class="dot">26 places</span></h6>
                     <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5>
                     <p>immerse yourself in 17th-18th century Versailles</p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
+                    
                 </div>
             </div>
         </div>
@@ -71,7 +94,7 @@
                     <h6>Restuarants <span class="dot">26 places</span></h6>
                     <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5>
                     <p>immerse yourself in 17th-18th century Versailles</p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
+                    
                 </div>
             </div>
         </div>

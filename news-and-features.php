@@ -19,6 +19,23 @@
 </section>
 <!-- Trending News End --> 
 
+<section class="tabs-inline">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="chooseOption">
+                      <button>Latest News</button>
+                     <button>Trending</button>
+                    <button>Food & Drink</button>
+                    <button>Style & Beauty</button>
+                    <button>Art & Culture</button>
+                    <button>Travel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 <!-- Latest news start-->
 <section class="latestNewsSection">
   <div class="container">
@@ -26,50 +43,10 @@
         <div class="col-md-12">
             <h2 class="upperCs popinsFont5">Latest News</h2>
         </div>
-        <div class="col-md-6 col-sm-6 col-xs-6">
-            <div class="latestBlock">
-                <figure class="col-4"><img src="images/feat1.jpg" alt="*" /></figure>
-                <div class="col-8">
-                    <h6>News &amp; Features</h6>
-                    <h5>Alaya: Mediterranean cuisine with Middle Eastern Flair</h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-6">
-            <div class="latestBlock">
-            <figure class="col-4"><img src="images/feat2.jpg" alt="*" /></figure>
-                <div class="col-8">
-                    <h6>Food</h6>
-                    <h5>Bonds: A charming specialty coffee gem on Al Wasl</h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-6">
-            <div class="latestBlock">
-            <figure class="col-4"><img src="images/feat3.jpg" alt="*" /></figure>
-                <div class="col-8">
-                    <h6>News &amp; Features</h6>
-                    <h5>Reach Abu Dhabi: Specialty coffee and community vibes</h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a> <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-6 col-sm-6 col-xs-6">
-            <div class="latestBlock">
-            <figure class="col-4"><img src="images/feat4.jpg" alt="*" /></figure>
-                <div class="col-8">
-                    <h6>Food</h6>
-                    <h5>Catch at St Regis: Hampton vibes in Abu Dhabi</h5>
-                    <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>
-                    <div class="nfshare textBtn-Btm"><a href="">View More <i class="fal fa-long-arrow-right"></i></a>  <button type="button" class="share-btn"><i class="fas fa-paper-plane"></i></button></div>
-                </div>
-            </div>
-        </div>
+        <?php 
+   include('./latest-news.php'); 
+?>
+        
     </div>
   </div>     
 </section>

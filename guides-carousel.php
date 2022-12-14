@@ -29,7 +29,7 @@
                                 <img src="./images/place2.png" class="img-fluid" alt="">
                                 <div class="dBoxTxt" onclick="window.open('/guides-detail.php', '_blank')">
                                 <p class="category-title">GUIDE</p>
-                                    <h6>The Ultimate Road Trip Guide: 12 Ways to Esca...</h6>
+                                    <h6>The Ultimate Road Trip Guide: 12 Ways to Escape from life...</h6>
                                     <p>They are just that good...</p>
                                    
                                 </div>

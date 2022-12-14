@@ -1592,8 +1592,9 @@ font-family: 'Neutraface Text';*/
  .inner-banner img{ width: 100%; height: auto;padding: 0;}
 
  .inner-banner-text-detail{text-align: left; padding: 0; text-transform: capitalize; color: #fff;position: absolute; max-width: 1400px; width: 98%; top:30%; left:0; right: 0; margin: 0 auto;}
+ .latestNewsSection {padding: 30px 0 0px 0;}
+.trendingNewsSection, .trendingPlaces, .guidesBg, .placesBg, .latestNewsSection.home {padding: 90px 0 0px 0;}
 
-.trendingNewsSection, .trendingPlaces, .guidesBg, .placesBg, .latestNewsSection {padding: 90px 0 0px 0;}
 .tabs-inline {padding: 50px 0 0px 0;}
 .trendingNewsSection .newsFeatureSlide{padding: 0;}
 .trendingNewsSection h3{padding-top: 0; line-height: 28px; padding-bottom: 20px;}
@@ -1664,7 +1665,7 @@ font-family: 'Neutraface Text';*/
 nav#desktop{display: block;}
 nav#mobile{display: none;}
 .placesList{    box-shadow: 0px 0px 11px rgba(0,0,0,0.2);border-radius: 11px; margin-top:20px;}
-.placesList .h5{ font-size: 22px;line-height: 28px;font-weight:500;color: #000;font-family: 'Poppins', sans-serif;     min-height: 56px;
+.placesList .h5{ font-size: 22px;line-height: 28px;font-weight:500;color: #000;font-family: 'Poppins', sans-serif; 
     display: inline-block; text-transform: capitalize;}
 .placesList img{width: 100%; height: auto; border-radius: 11px 11px 0 0;}
 .placesList{display: flex; flex-direction: column;}
@@ -1726,3 +1727,12 @@ nav#mobile{display: none;}
     right: auto !important;
 }
 
+/* perks page css */
+
+.coffee-icon {
+    padding-bottom: 5px;
+    width: 24px !important;
+    height: auto !important;
+    margin-right: 10px;
+    display: inline !important;
+}

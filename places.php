@@ -23,9 +23,32 @@
     </div>
 </section>
 <!-- Guides End --> 
+<section class="tabs-inline">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="chooseOption">
+                        <button>Explore & Search Page</button>
+                        <button>Specialty Coffee </button>
+                        <button>Restaurants</button>
+                        <button>Bars & Nightlife </button>
+                        <button>Art & Culture</button>
+                        <button>Beauty & Spa </button>
+                        <button>Health & Fitness  </button>
+                        <button>Hotels</button>
+                        <button>Tourist Attractions </button>
+                        <button>Outdoor Activities </button>
+                        <button>Shops</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- filters end -->
 
 <!-- Latest news start-->
-<section class="latestNewsSection">
+<section class="latestNewsSection" style="display:none;">
   <div class="container">
     <div id="contentScroll" class="row">
         <div class="col-md-12">
