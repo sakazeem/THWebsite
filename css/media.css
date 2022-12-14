@@ -740,13 +740,28 @@
   }
 }
 
+
+
 @media (max-width: 767px)
 {
+
     .desktop-menu {
         display:none;
     
 }
+    .dot:before {
+        display:none;
+    }
+
+        .latestBlock h6 span{
+            display:block;
+
+        }
+
+    
 }
+
+ 
 
 @media all and (min-width: 990px) {
  .mobile-menu{

@@ -218,5 +218,5 @@
 
 
 <?php 
-   include('./footer-02.php'); 
+   include('./footer.php'); 
 ?>
