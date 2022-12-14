@@ -129,7 +129,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle"  role="button" aria-expanded="false" id="dropdownMenuLink" >ABOUT</a>
+          <a href="/about.php" class="dropdown-toggle"  role="button" aria-expanded="false" id="dropdownMenuLink" >ABOUT</a>
           <ul class="dropdown-menu dd-box">
             <li><a href="#">FAQs</a></li>
             <li><a href="#">Meet The HUNTR</a></li>

@@ -1738,3 +1738,14 @@ nav#mobile{display: none;}
     margin-right: 10px;
     display: inline !important;
 }
+
+
+/* perks page end */
+
+/** About Page start **/
+.aboutPageEditor .picksBg p{margin-bottom: 5px;}
+.aboutPageEditor .picksBg i{font-size: 18px; margin-right: 5px;}
+.aboutPageEditor .picksBg a:hover{color: #000;}
+.aboutPageEditor .picksBg img { filter: grayscale(100%);}
+.contentArea a{color: #000; font-size: 18px; font-family: 'Poppins', sans-serif; text-decoration: underline;}
+/** About Page End **/
