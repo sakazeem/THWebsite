@@ -15,7 +15,7 @@ body {
 
 h1,
 h2,
-h3,
+h3,G
 h4,
 h5,
 h6,
@@ -505,6 +505,8 @@ ul.dropdown-menu.dd-box li a {
     display: flex;
     padding: 0 0 20px 0;
     margin-top: 0px;
+    flex-wrap: nowrap;
+    overflow-x: auto;
 }
 
 .chooseOption button, .chooseOption .button {
@@ -519,7 +521,7 @@ ul.dropdown-menu.dd-box li a {
     background: #fff;
     height: 43px;
     padding: 7px 19px;
-
+    flex:  0 0 auto;
 }
 
 .chooseOption button:hover, .chooseOption .button:hover {
