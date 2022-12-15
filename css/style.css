@@ -1849,10 +1849,23 @@ li.list-group-item.list-heading {
     border-bottom:none;
     border-left:none;
     font-size: 16px;
-    font-weight: normal;
+    font-weight: 200;
     vertical-align: top;
+    position:absolute;
+    right:0px;
+    
 }
 
 .navbar-nav .dropdown-toggle.show::after{
     content: "\f068";
 }
+
+/* guides desktop */
+
+.desktop .placeBlock{
+    
+    margin-top: 20px;
+   
+}
+
+/* end */
