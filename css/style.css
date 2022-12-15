@@ -454,7 +454,7 @@ ul.dropdown-menu.dd-box li a {
 .dBoxTxt {
     position: absolute;
     z-index: 2;
-    bottom: 0;
+    bottom: 15px;
     left: 0;
     width: 100%;
     padding: 10px 20px 10px 20px;
@@ -682,10 +682,8 @@ ul.dropdown-menu.dd-box li a {
 
 .latestBlock {
     width: 100%;
-    display: flex;
     margin-top: 20px;
     padding-bottom: 15px;
-    border-bottom: 1px solid #ddd;
 }
 
 .latestBlock figure{
@@ -1780,4 +1778,8 @@ li.list-group-item.list-heading {
     font-size: 22px;
     line-height: 30px;
     font-weight: 600;
+}
+
+.mainNav ul li {
+    margin: 0 10px;
 }

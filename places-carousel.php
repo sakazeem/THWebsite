@@ -15,7 +15,7 @@
             <img src="./images/place1.png" class="img-fluid" alt="">
             
             <div class="dBoxTxt" onclick="window.open('/places-detail.php','_self')">
-                <h5>RESTURANT & BARS IN DUBAI</h5>
+                <h5>RESTURANT & BAR IN DUBAI</h5>
                 <h6>Demo sub heading will be here</h6>
                 <p>Demo text will be here</p>
                 
@@ -42,7 +42,7 @@
             <img src="./images/place2.png" class="img-fluid" alt="">
             
             <div class="dBoxTxt" onclick="window.open('/places-detail.php','_self')">
-                <h5>RESTURANT & BARS IN DUBAI</h5>
+                <h5>RESTURANT & BAR IN DUBAI</h5>
                 <h6>Demo sub heading will be here</h6>
                 <p>Demo text will be here</p>
                 
@@ -70,13 +70,13 @@
             <img src="./images/place3.png" class="img-fluid" alt="">
             
             <div class="dBoxTxt" onclick="window.open('/places-detail.php','_self')">
-                <h5>RESTURANT & BARS IN DUBAI</h5>
+                <h5>RESTURANT & BAR IN DUBAI</h5>
                 <h6>Demo sub heading will be here</h6>
                 <p>Demo text will be here</p>
               
             </div>
         </div>
-    </div> -->
+    </div>
     <div class="item">
         <div class="placeBlock">
             <div class="placeTop">
@@ -94,7 +94,7 @@
             <img src="./images/place4.png" class="img-fluid" alt="">
             
             <div class="dBoxTxt" onclick="window.open('/places-detail.php','_self')">
-                <h5>RESTURANT & BARS IN DUBAI</h5>
+                <h5>RESTURANT & BAR IN DUBAI</h5>
                 <h6>Demo sub heading will be here</h6>
                 <p>Demo text will be here</p>
                 
@@ -120,7 +120,7 @@
             <img src="./images/place5.png" class="img-fluid" alt="">
             
             <div class="dBoxTxt" onclick="window.open('/places-detail.php','_self')">
-                <h5>RESTURANT & BARS IN DUBAI</h5>
+                <h5>RESTURANT & BAR IN DUBAI</h5>
                 <h6>Demo sub heading will be here</h6>
                 <p>Demo text will be here</p>
                 

@@ -18,6 +18,7 @@
                     <img src="images/db2.jpg" alt="" />
                     <div class="dBoxTxt" onclick="window.open('/places.php', '_self')">
                         <p class="category-title">PLACES</p>
+                        <h5>CAFE & SPECIALTY COFFEE IN ABU DHABI</h5>
                         <h3>Drop Coffee Yas Bay: Specialty coffee and water views</h3>
                         <p>A great casual, all-rounder...</p>
                                 
