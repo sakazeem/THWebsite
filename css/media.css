@@ -564,7 +564,8 @@
     .addBg{flex-direction: row;  padding: 10px 15px; text-align: center;}
     .floatBubble1 {display: none;}
     .addBg h2{font-size: 24px;line-height: 28px;margin-top: 15px;}
-    .addApple img {width: 100px;height: auto;margin: 5px 0;}
+    .addsStore img.floatBubble {margin-right:0;} 
+    .addApple img {width: 110px;height: auto;margin: 5px 0;}
     /*.addsStore{display: none;}*/
     .addApple{margin-top: 10px;}
     .discoverTxt span{font-size: 18px; line-height: 20px;}
