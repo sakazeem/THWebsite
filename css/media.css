@@ -134,9 +134,12 @@
     }
 
     .mainNav ul li a {
-        font-size: 17px;
+        font-size: 19px;
     }
 
+    ul.dropdown-menu.dd-box li a {
+        font-size: 17.5px !important;
+    }
 
     .mobSocial {
         position: absolute;
