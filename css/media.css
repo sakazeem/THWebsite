@@ -818,6 +818,13 @@
     .columns li{font-size: 16px;}
     .columns .icon-logo{max-width: 70px;}
     .columns h5{font-size: 16px;}
+
+    .addApple img {
+        width: 90px;
+        height: auto;
+        display: block;
+        margin-bottom: 5px;
+    }
 }
 
 @media(max-width:767px) {
