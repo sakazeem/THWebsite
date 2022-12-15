@@ -1836,4 +1836,23 @@ li.list-group-item.list-heading {
    #coffeeCarousel .owl-stage-outer { padding-bottom: 10px;}
   .additionsPerList .item{margin-bottom: 15px;}
 
-    /** Perks Page *
+    /** Perks Page **/
+
+
+    .navbar-nav .dropdown-toggle::after{
+    font-family: "Font Awesome 5 Pro";
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    content: "\f067";
+    border-top: none;
+    border-right:none;
+    border-bottom:none;
+    border-left:none;
+    font-size: 16px;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+.navbar-nav .dropdown-toggle.show::after{
+    content: "\f068";
+}

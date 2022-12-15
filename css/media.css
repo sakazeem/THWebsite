@@ -785,16 +785,22 @@
     }
 }
 
-@media(max-width:1920px) {
-    .laptop{ visibility:visible;}
-    .desktop{ visibility:hidden;display:none; }
+@media(max-width:991px) {
+    .mobile{ visibility:visible;
+    }
+    .desktop{ 
+        visibility:hidden;
+        display:none;
+     }
 }
 
-@media(min-width:1921px) {
-    .laptop{visibility:hidden;display: none;}
+@media(min-width:992) {
+    .mobile{
+        visibility:hidden !important;
+        display: none;
+    }
     .desktop{visibility: visible;}
 }
-
 @media(max-width:991px) {
 
     .columns h5{width: 100%; text-align: center;}

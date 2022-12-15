@@ -1,4 +1,4 @@
-<div class="row laptop">
+<div class="row mobile">
     <div class="col-md-12 guideSlide">
         <div id="guideCarousal" class="owl-carousel owl-theme">
             <div class="item">
