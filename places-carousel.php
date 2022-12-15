@@ -4,13 +4,7 @@
             <div class="placeTop">
             <img src="./images/icon-perk.png" class="emoji" alt="">
             <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
-
             <div>&nbsp;</div>
-            
-                <?php
-                    include('./share-button.php'); 
-                ?>
-            
             </div>
             <div class="placeMiddle">
             <h5>RESERVATIONS RECOMMENDED</h5>
@@ -36,13 +30,7 @@
            
             <img src="./images/icon-perk.png" class="emoji" alt="">
             <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
-
             <div>&nbsp;</div>
-            
-                <?php
-                    include('./share-button.php'); 
-                ?>
-            
             </div>
             <div class="placeMiddle">
             <h5>RESERVATIONS RECOMMENDED</h5>
@@ -63,18 +51,14 @@
         </div>
         
     </div>
-    <div class="item">
+     <div class="item">
         <div class="placeBlock">
             <div class="placeTop">
-            <a class="location" href="">
+           
             <img src="./images/icon-perk.png" class="emoji" alt="">
             <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
 
             <div>&nbsp;</div>
-            
-                <?php
-                    include('./share-button.php'); 
-                ?>
             
             </div>
             <div class="placeMiddle">
@@ -92,20 +76,14 @@
               
             </div>
         </div>
-    </div>
+    </div> -->
     <div class="item">
         <div class="placeBlock">
             <div class="placeTop">
-            <a class="location" href="">
             <img src="./images/icon-perk.png" class="emoji" alt="">
             <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
 
-            <div>&nbsp;</div>
-            
-                <?php
-                    include('./share-button.php'); 
-                ?>
-            
+            <div>&nbsp;</div>    
             </div>
             <div class="placeMiddle">
             <h5>RESERVATIONS RECOMMENDED</h5>
@@ -126,16 +104,12 @@
     <div class="item">
         <div class="placeBlock">
             <div class="placeTop">
-            <a class="location" href="">
+            
+            <div>&nbsp;</div> 
+         
             <img src="./images/icon-perk.png" class="emoji" alt="">
             <img src="./images/icon-coffee.png" class="emoji-coffee" alt="">
-
-            <div>&nbsp;</div>
-            
-                <?php
-                    include('./share-button.php'); 
-                ?>
-            
+                 
             </div>
             <div class="placeMiddle">
             <h5>RESERVATIONS RECOMMENDED</h5>

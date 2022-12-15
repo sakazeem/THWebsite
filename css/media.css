@@ -784,4 +784,17 @@
     }
 }
 
+@media(max-width:1920px) {
+    .laptop{ display:block;}
+    .desktop{ display:none; }
+
+}
+
+@media(min-width:1921px) {
+    .laptop{ display:none;}
+    .desktop{ display:block; }
+
+}
+
+
 

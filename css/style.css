@@ -941,13 +941,13 @@ font-family: 'Neutraface Text';*/
        width:25px !important;
        height: 25px; 
        position: absolute;
-       left: 20px;
+       right: 20px;
 }
 .emoji-coffee {
     width:25px !important;
     height: 25px; 
     position: absolute;
-    left: 60px;
+    right: 60px;
 }
 .heart{
     float:right;
@@ -956,7 +956,7 @@ font-family: 'Neutraface Text';*/
     position: absolute;
     z-index: 9;
     left: 0;
-    top: 38px;
+    top: -5px;
     width: 100%;
     padding: 20px;
 }
