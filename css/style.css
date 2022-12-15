@@ -1748,3 +1748,29 @@ nav#mobile{display: none;}
 .aboutPageEditor .picksBg img { filter: grayscale(100%);}
 .contentArea a{color: #000; font-size: 18px; font-family: 'Poppins', sans-serif; text-decoration: underline;}
 /** About Page End **/
+
+/* Editor Policy */
+
+.list-group-item {
+    font-family: 'Poppins', sans-serif;
+    color:#000000;
+    border:0px;
+
+}
+
+/* END */
+
+
+/* Faqs */
+
+.accordion-button{
+    padding: 1rem 1.5rem;
+    font-size: 18px;
+    line-height:24px;
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+}
+.accordion-body{
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+}
