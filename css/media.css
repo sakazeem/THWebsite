@@ -778,5 +778,10 @@
 
 @media(max-width:767px) {
     .contentArea a{font-size: 16px; }
+
+    .accordion {
+        display: block;
+    }
 }
+
 

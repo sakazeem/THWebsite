@@ -1751,7 +1751,7 @@ nav#mobile{display: none;}
 
 /* Editor Policy */
 
-.list-group-item {
+.list-group-item, .list-group-item ul li{
     font-family: 'Poppins', sans-serif;
     color:#000000;
     border:0px;
@@ -1773,4 +1773,11 @@ nav#mobile{display: none;}
 .accordion-body{
     font-family: 'Poppins', sans-serif;
     color: #000000;
+}
+
+/* terms & conditions */
+li.list-group-item.list-heading {
+    font-size: 22px;
+    line-height: 30px;
+    font-weight: 600;
 }
