@@ -454,7 +454,7 @@ ul.dropdown-menu.dd-box li a {
 .dBoxTxt {
     position: absolute;
     z-index: 2;
-    bottom: 15px;
+    bottom: 0;
     left: 0;
     width: 100%;
     padding: 10px 20px 10px 20px;
