@@ -9,11 +9,11 @@
                         <?php include('./share-button.php'); ?>
                     </div>
                     <img src="./images/place5.png" class="img-fluid" alt="">
-                    <div class="dBoxTxt">
+                    <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
                     <p class="category-title">News</p>
                         <h6>The places we can't stop thinkig about right now...</h6>
                         <p>They are just that good...</p>
-                        <a href="">View More <i class="fal fa-long-arrow-right"></i></a>
+                        
                     </div>
                 </div>
             </div>
@@ -24,11 +24,11 @@
                         <?php include('./share-button.php'); ?>
                     </div>
                     <img src="./images/place2.png" class="img-fluid" alt="">
-                    <div class="dBoxTxt">
+                    <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
                     <p class="category-title">News</p>
                         <h6>Demo sub heading will be here</h6>
                         <p>Demo text will be here</p>
-                        <a href="">View More <i class="fal fa-long-arrow-right"></i></a>
+                      
                     </div>
                 </div>
             </div>
@@ -39,11 +39,11 @@
                         <?php include('./share-button.php'); ?>
                     </div>
                     <img src="./images/place3.png" class="img-fluid" alt="">
-                    <div class="dBoxTxt">
+                    <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
                         <p class="category-title">News</p>
                         <h6>Demo sub heading will be here</h6>
                         <p>Demo text will be here</p>
-                        <a href="">View More <i class="fal fa-long-arrow-right"></i></a>
+                        
                     </div>
                 </div>
             </div>
@@ -54,11 +54,11 @@
                         <?php include('./share-button.php'); ?>
                     </div>
                     <img src="./images/place4.png" class="img-fluid" alt="">
-                    <div class="dBoxTxt">
+                    <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
                         <p class="category-title">News</p>
                         <h6>Demo sub heading will be here</h6>
                         <p>Demo text will be here</p>
-                        <a href="">View More <i class="fal fa-long-arrow-right"></i></a>
+                        
                     </div>
                 </div>
             </div>
@@ -69,11 +69,11 @@
                         <?php include('./share-button.php'); ?>
                     </div>
                     <img src="./images/place5.png" class="img-fluid" alt="">
-                    <div class="dBoxTxt">
+                    <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
                         <p class="category-title">News</p>
                         <h6>Demo sub heading will be here</h6>
                         <p>Demo text will be here</p>
-                        <a href="">View More <i class="fal fa-long-arrow-right"></i></a>
+                       
                     </div>
                 </div>
             </div>

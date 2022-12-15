@@ -113,7 +113,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="/guides.php" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
+          <a href="#" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
           <ul class="dropdown-menu dd-box">
             <li><a href="/perks.php ">HUNTR Member Perks</a></li>
             <li><a href="#">HUNTR Coffee Card </a></li>
@@ -131,10 +131,10 @@
         <li class="dropdown nav-item">
           <a href="/about.php" class="dropdown-toggle"  role="button" aria-expanded="false" id="dropdownMenuLink" >ABOUT</a>
           <ul class="dropdown-menu dd-box">
-            <li><a href="#">FAQs</a></li>
-            <li><a href="#">Meet The HUNTR</a></li>
-            <li><a href="#">Terms & Conditions</a></li>
-            <li><a href="#">Editorial Policy</a></li>
+            <li><a href="/faq.php">FAQs</a></li>
+            <li><a href="/team.php">Meet The HUNTR</a></li>
+            <li><a href="/terms-and-conditions.php">Terms & Conditions</a></li>
+            <li><a href="/editorial-policy.php">Editorial Policy</a></li>
           </ul>
         </li>
     </ul>
