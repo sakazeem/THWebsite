@@ -794,3 +794,20 @@
     .laptop{visibility:hidden;display: none;}
     .desktop{visibility: visible;}
 }
+
+@media(max-width:991px) {
+
+    .columns h5{width: 100%; text-align: center;}
+    .columns .icon-logo{display: block; margin: 10px auto;}
+    
+
+}
+
+@media(max-width:767px) {
+    .contentArea a{font-size: 16px; }
+    .flex{flex-direction: column;}
+    .columns{     max-width: inherit; width: 100%;margin: 20px 0;}
+    .columns li{font-size: 16px;}
+    .columns .icon-logo{max-width: 70px;}
+    .columns h5{font-size: 16px;}
+}

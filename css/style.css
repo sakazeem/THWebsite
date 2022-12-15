@@ -1783,3 +1783,41 @@ li.list-group-item.list-heading {
 .mainNav ul li {
     margin: 0 10px;
 }
+
+
+/** Membership table Start**/
+
+.flex{ display:flex; justify-content: center;}
+.columns { padding:20px; margin: 20px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    border-radius:35px;
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2);
+    max-width: 400px;
+}
+.columns:hover {
+    box-shadow: 0 8px 15px 0 rgba(0,0,0,0.2);
+    background-color: #F3F3F3;
+    color: #fff;
+}
+.columns .icon-logo{max-width:100px; height: auto; margin-right: 5px; display: inline-block;vertical-align: top;}
+.columns .img-text{display: block; vertical-align: top;}
+.columns h2{font-family: 'Poppins', sans-serif; }
+.columns h5{padding: 0; text-transform: uppercase; display: inline-block; width: 69%;}
+.columns h5 span{font-size: 14px;     line-height: 18px; display: block; letter-spacing: -0.5px; font-family: 'Poppins', sans-serif; text-transform: capitalize; font-weight: 400;}
+.price {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.columns li{color: #000; font-size: 18px; font-family: 'Poppins', sans-serif;  text-transform: capitalize;}
+
+.price li {
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+    text-align: center;
+}
+.price li.noborder{border: none;}
+
+.contentArea{padding: 90px 0 0 0;}
+/**** Membership table End*****/

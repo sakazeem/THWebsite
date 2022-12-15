@@ -113,7 +113,7 @@
           </ul>
         </li>
         <li class="dropdown nav-item">
-          <a href="#" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
+          <a href="membership.php" class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">THE HUNTR MEMBERSHIP</a>
           <ul class="dropdown-menu dd-box">
             <li><a href="/perks.php ">HUNTR Member Perks</a></li>
             <li><a href="#">HUNTR Coffee Card </a></li>
