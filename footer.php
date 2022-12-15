@@ -226,7 +226,7 @@ editorcarosal.owlCarousel({
     }
 });
 
-var newsfeat = $("#newsfeatCarousal, #guideCarousal, #perksCarousel");
+var newsfeat = $("#newsfeatCarousal, #guideCarousal, #perksCarousel", "#coffeeCarousel");
 
 newsfeat.owlCarousel({
     loop: true,

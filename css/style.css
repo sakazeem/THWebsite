@@ -1821,3 +1821,19 @@ li.list-group-item.list-heading {
 
 .contentArea{padding: 90px 0 0 0;}
 /**** Membership table End*****/
+
+  /** Perks Page **/
+
+  .perks-banner{background-color: #F3F3F3; overflow: hidden; padding: 90px 0;}
+  .perks-banner .top-banner{background-color: transparent;}
+  .perk-banner-img{width: 100%; max-width: 200px; margin: 0 auto; margin-bottom: -200px; display: block;}
+  .perks-banner h2{text-transform: uppercase; line-height:50px; margin-bottom: 20px;}
+  .perks-banner p{ font-family: 'Poppins', sans-serif;  text-transform: capitalize; font-size: 22px;}
+  .perks-banner a.btn{background-color: #000; font-weight: 600; color: #fff; text-transform: uppercase; border-radius: 25px; padding: 10px 20px;}
+  .perks-banner .flex{align-items: center;}
+  .perkPage h1{font-size: 60px; margin-bottom: 30px; color: #000; text-align: center; text-transform: uppercase; font-weight: 500;font-family: 'Poppins', sans-serif; }
+   .icon-coffee{ max-width: 25px;   display: inline-block !important; margin: -3px 10px 0 0; vertical-align: top;}
+   #coffeeCarousel .owl-stage-outer { padding-bottom: 10px;}
+  .additionsPerList .item{margin-bottom: 15px;}
+
+    /** Perks Page *
