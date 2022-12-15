@@ -785,7 +785,14 @@
     }
 }
 
-@media(max-width:991px) {
+@media all and (min-width: 990px){ 
+    .phone{
+        visibility:hidden !important;
+        display: none;
+    }
+    .desktop{visibility: visible;}
+}
+@media(max-device-width:767px) {
     .phone{ visibility:visible;
     }
     .desktop{ 
@@ -793,18 +800,9 @@
         display:none;
      }
 }
+ 
 
-@media screen 
-  and (min-device-width: 1200px) 
-  and (-webkit-min-device-pixel-ratio: 1)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (min-resolution: 192dpi) { 
-    .phone{
-        visibility:hidden !important;
-        display: none;
-    }
-    .desktop{visibility: visible;}
-}
+
 @media(max-width:991px) {
 
     .columns h5{width: 100%; text-align: center;}
