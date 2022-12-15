@@ -202,7 +202,6 @@ var editorcarosal = $("#editorCarousel");
 editorcarosal.owlCarousel({
     loop: true,
     nav: true,
-    autoWidth: true,
     //            center: true,
     items: 3,
     margin: 15,
