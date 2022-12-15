@@ -1,4 +1,4 @@
-<div class="mobile">
+<div class="phone">
     <div class="row">
         <div class="col-md-12 guideSlide">
             <div id="guideCarousal" class="owl-carousel owl-theme">

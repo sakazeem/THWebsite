@@ -786,7 +786,7 @@
 }
 
 @media(max-width:991px) {
-    .mobile{ visibility:visible;
+    .phone{ visibility:visible;
     }
     .desktop{ 
         visibility:hidden;
@@ -795,7 +795,7 @@
 }
 
 @media(min-width:992) {
-    .mobile{
+    .phone{
         visibility:hidden !important;
         display: none;
     }
