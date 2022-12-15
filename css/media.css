@@ -786,16 +786,11 @@
 }
 
 @media(max-width:1920px) {
-    .laptop{ display:block;}
-    .desktop{ display:none; }
-
+    .laptop{ visibility:visible;}
+    .desktop{ visibility:hidden;display:none; }
 }
 
 @media(min-width:1921px) {
-    .laptop{ display:none;}
-    .desktop{ display:block; }
-
+    .laptop{visibility:hidden;display: none;}
+    .desktop{visibility: visible;}
 }
-
-
-
