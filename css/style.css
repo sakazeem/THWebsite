@@ -459,7 +459,7 @@ ul.dropdown-menu.dd-box li a {
     width: 100%;
     padding: 10px 20px 10px 20px;
 }
-
+.guideCarousal .dBoxTxt {bottom: 10px;}
 .dBoxTxt h5 {
     color: #fff;
     text-transform: uppercase;
