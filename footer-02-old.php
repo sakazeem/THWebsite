@@ -1,126 +1,102 @@
 <footer class="footer-wrapper">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="newsletter mb-4">
-                <form class="newsLetterForm">
-                <h1>Get the best of your city<br /> straight to your inbox</h1>
-                    <div class="">
+    <div class="container-md">
+        <div class="subscription">
+            <div class="row mobileFlex">
+                <div class="col-md-12 newsletter">
+                    <p class="text-center">Get the best of your city straight to your inbox</p>
                     <form class="newsLetterForm">
-                    <input type="text" placeholder="Email Address"><button><i class="far fa-greater-than"></i></button>
-                    </div>
-                </form>
+                        <div class="row">
+                            <div class="col-md-3">
+                            </div>
+                            <div class="col-md-6">
+                                <input type="text" placeholder="Email Address"><button>Go</button>
+                            </div>
+                            <div class="col-md-3">
+                            </div>
+                        </div>
+                    </form>
                 </div>
-
-                <div class="storebtn mb-4">
+            </div>
+            <div class="row mobileFlex">
+                <hr style="margin:40px 0; border: 2px; color: black;" />
+            </div>
+            <div class="row mobileFlex text-center">
+                <div class="col-md-12">
+                    <a href="#"><img src="./images/footerlogo.png" class="img-fluid" alt="" /></a>
+                    <div class="storebtn" style="display:block;">
                         <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt="" /></a>
                         <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt="" /></a>
                     </div>
-
-                
-                <div class="headsocial footsocial quick-links">
-                    <h4 class="mb-2">FOLLOW US</h4>
-
-                    <a href=""><img src="./images/fb.png" alt="" /></a>
-                    <a href=""><img src="./images/insta.png" alt="" /></a>
-                    <a href=""><img src="./images/tiktok.png" alt="" /></a>
-                </div>
-                <div class="payment-card mt-4">
-                <img src="./images/secure-payment.png" alt=""/>
-                </div>
-                <!-- <div class="copyright mt-2 footer-menu">
-                <p>&copy; Copyright 2022 The HUNTR</p>
-                </div> -->
-
-               
-            </div>
-
-            <div class="col-md-3 footer-menu">
-            <div class="quick-links">
-                <h4 class="mb-2">EXPLORE</h4>
-                <ul>
-                <li>NEWS & FEATURES</li>
-                <li>PLACES</li>
-                <li>GUIDES</li>
-                <li>THE HUNTR MEMBERSHIP</li>
-                <li>THE HUNTR STORE</li>
-                <li>ABOUT</li>
-
-                </ul>
-            </div>
-
-            <div class="contact-info">
-                <h4 class="mt-2">CONTACT</h4>
-                <p>info@thehuntr.com</p>
-                <p>+91 340 2566899</p>
-
-            </div>
-
-            </div>
-            <div class="col-md-3 footer-menu">
-            <div class="quick-links">
-                <h4 class="mb-2">THE HUNTR</h4>
-                <ul>
-                <li>ABOUT</li>
-                <li>MEET THE HUNTR</li>
-                <li>CONTACT</li>
-                <li>FAQs</li>
-                </ul>
-            </div>
-
-            <div class="quick-links">
-                <h4 class="mt-2">LEGAL</h4>
-                <ul>
-                <li>EDITORIAL POLICY</li>
-                <li>TERMS & CONDITIONS</li>
-                <li>PRIVACY POLICY</li>
-                </ul>
-            </div>
-            </div>
-        </div>
-
-    <div class="desktop-bottom-footer">
-        <div class="row">
-            <div class="col-md-3">
-                <div class="bottom-footer">
-                    <img src="./images/icon-curators-of-good-taste-black.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">THE ONLY GUIDE TO DUBAI & THE UAE YOU NEED</h6>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="bottom-footer">
-                    <img src="./images/icon-the-huntr-mobile.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">FEATURING EVERYTHING YOU NEED TO KNOW & IGNORING THE REST</h6>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="bottom-footer">
-                    <img src="./images/icon-the-huntr-coffee.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">THE ONLY CROSS-CONCEPT COFFEE LOYALTY CARD IN THE REGION </h6>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="bottom-footer">
-                    <img src="./images/icon-hand.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">A SMALL HOMEGROWN MEDIA COMPANY. PROUDLY BORN IN DUBAI.</h6>
-                </div>
-            </div>
-         
         </div>
     </div>
-        
-    <div class="copyright">
+    </div>
+
+
+
+    <div class="container">
+
+        <div class="footer-inner">
+            <div class="row mobileFlex">
+            
+             
+                <div class="col-md-12" style="margin:20px 0 4px 0;">
+                  
+                                        <ul class="list-inline text-center footer-nav">
+                                            <li class="list-inline-item">
+                                                <a href="#">Home</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">About</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">Contact</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">FAQ</a>
+                                            </li>
+                                           
+                                        </ul>
+
+                                        
+                                        <ul class="list-inline text-center footer-nav">
+                                            <li class="list-inline-item">
+                                                <a href="#">Terms &amp; Conditions</a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#">Privacy Policy</a>
+                                            </li>
+                                        </ul>
+                                 
+                        </div>    
+               
+
+                            
+                </div>
+                <div class="col-md-12">
+                   
+                    <div class="headsocial footsocial text-center">
+                        <a href=""><img src="images/fb.png" alt="" /></a>
+                        <a href=""><img src="images/insta.png" alt="" /></a>
+                        <a href=""><img src="images/tiktok.png" alt="" /></a>
+                    </div>
+
+                  
+                </div>
+            </div>
+        </div>
+        <div class="copyright container-md">
             <div class="headsocial footsocial">
                 <a href=""><img src="images/fb.png" alt="" /></a>
                 <a href=""><img src="images/insta.png" alt="" /></a>
                 <a href=""><img src="images/tiktok.png" alt="" /></a>
             </div>
-
             <p>&copy; The HUNTR 2022</p>
-    </div>
+         
 
+        </div>
     </div>
-
 </footer>
 <a href="#" id="scroll" style="display: none;"><span></span></a>
 
@@ -180,7 +156,7 @@ editorcarosal.owlCarousel({
     loop: true,
     nav: true,
     //            center: true,
-    items: 3,
+    items: 4,
     margin: 15,
     autoplay: false,
     dots: false,
@@ -203,7 +179,7 @@ editorcarosal.owlCarousel({
     }
 });
 
-var newsfeat = $("#newsfeatCarousal, #guideCarousal, #perksCarousel", "#coffeeCarousel");
+var newsfeat = $("#newsfeatCarousal, #guideCarousal");
 
 newsfeat.owlCarousel({
     loop: true,
@@ -259,21 +235,6 @@ detailImgCarousel.owlCarousel({
         }
     }
 });
-
-
-var innerBannerCarousel = $("#innerBannerCarousel");
-
-innerBannerCarousel.owlCarousel({
-    loop: true,
-    nav: true,
-    //center: true,
-    items: 1,
-    margin: 0,
-    autoplay: true,
-    dots: false,
-    autoplayTimeout: 85000,
-    smartSpeed: 450,
-});
 </script>
 <script>
 $(window).scroll(function() {
@@ -287,7 +248,7 @@ $(window).scroll(function() {
 <script>
 $(document).ready(function() {
     //custom button for homepage
-    $(".share-button").click(function(e) {
+    $(".share-btn").click(function(e) {
         $('.networks-5').not($(this).find(".networks-5")).each(function() {
             $(this).removeClass("active");
         });

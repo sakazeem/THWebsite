@@ -1282,41 +1282,11 @@ font-family: 'Neutraface Text';*/
 }
 .col-1{width: 49%; float: left;}
 .col-1:nth-child(1){margin-right: 2%;}
-.newsLetterForm .col-12{position: relative; margin-top: 10px;}
 
-.newsLetterForm input {
-    font-family: 'Roboto', sans-serif;
-    width: 100%;
-    border: 1px solid #b1b1b1;
-    background: #fff;
-    padding: 5px 10px;
-    height: 40px;
-    font-size: 15px;
-    font-weight: 400;
-    color: #3B3B3B;
-}
 
-.newsLetterForm input:focus {
-    border: 1px solid #333;
-    outline: none;
-}
 
-.newsLetterForm button {
-    font-family: 'Roboto', sans-serif;
-    border: none;
-    outline: none;
-    position: absolute;
-    z-index: 1;
-    right: 2px;
-    top: 2px;
-    height: 36px;
-    padding: 5px;
-    background: #000;
-    color: #fff;
-    font-size: 16px;
-    font-weight: 500;
-    width: 50px;
-}
+
+
 
 .pdnTp50 {
     padding-top: 60px;
@@ -1869,3 +1839,83 @@ li.list-group-item.list-heading {
 }
 
 /* end */
+
+/* new footer */
+
+.payment-card img{
+    width:200px;
+}
+.newsletter h1{
+    font-weight:bold;
+    color:#000000;
+    margin-bottom:20px;
+}
+
+.quick-links h4{
+    font-size:22px;
+    line-height:30px;
+}
+
+.quick-links ul li{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    color:#000;
+    list-style: none;
+    padding: 5px 0;
+
+}
+.quick-links ul {
+    padding-left: 0px;
+}
+.contact-info p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom:5px;
+
+}
+.bottom-footer{
+    display:inline-flex;
+}
+.bottom-footer .footer-icon{
+    width: auto;
+    height: 120px;
+}
+
+.desktop-bottom-footer{
+    padding-top:90px;
+}
+.copyright{
+    margin-top: 20px;
+    border-top:1px solid #CACACA;
+}
+
+.newsLetterForm input {
+    font-family: 'Roboto', sans-serif;
+    width: 300px;
+    border: 0px;
+    border-bottom: 2px solid #000000;
+    background: transparent;
+    padding: 5px 15px 5px 10px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #000000;
+}
+
+.newsLetterForm button {
+    background: transparent;
+border: 0px;
+
+margin-left: -15px;
+} 
+ .newsLetterForm input:focus {
+
+    border: 0px;
+    border-bottom: 2px solid #000000;
+    outline: none;
+} 
+
+

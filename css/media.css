@@ -832,3 +832,21 @@
     .perkPage h1{font-size:30px; margin-bottom: 30px; }
     .perks-banner a.btn{padding: 5px 10px; font-weight: 500;}
 }    
+
+/* footer */
+@media(max-width:767px) {
+.desktop-bottom-footer{
+     display:none;
+}
+.newsLetterForm h1{
+    font-size:26px;
+    line-height:32px;
+}
+.payment-card{
+    display:none;
+}
+.footer-menu{
+    display:none;
+}
+
+}

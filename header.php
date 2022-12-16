@@ -169,9 +169,8 @@
                                 <span class="closeMenu"><i class="far fa-times-circle"></i></span>
                                 <ul class="navbar-nav mb-2 mb-lg-0">
                                 <li class="dropdown nav-item">
-          <a href="/news-features.php" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> NEWS & FEATURES</a>
+          <a href="/news-features.php" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false"> NEWS & FEATURES<span></span></a>
           <ul class="dropdown-menu dd-box">
-          <li><a href="#">News</a></li>
             <li><a href="#">Latest News</a></li>
             <li><a href="#">Trending</a></li>
             <li><a href="#">Food & Drink</a></li>
