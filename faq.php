@@ -13,7 +13,7 @@
 
 <section class="contentArea">
     <div class="container">
-        <div class="col-md-12">
+        <div class="col-md-8 mx-auto">
             <div class="row">
                 <div class="accordion accordion-flush" id="accordionFlushExample">
                     <div class="accordion-item">

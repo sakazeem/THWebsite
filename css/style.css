@@ -1742,6 +1742,10 @@ nav#mobile{display: none;}
     font-family: 'Poppins', sans-serif;
     color: #000000;
 }
+.accordion-button:not(.collapsed) {
+    color: #000000;
+    background-color: rgba(0, 0, 0, .10);
+}
 
 /* terms & conditions */
 li.list-group-item.list-heading {
