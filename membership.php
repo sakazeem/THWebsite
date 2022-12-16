@@ -15,8 +15,8 @@
 <section class="contentArea">
     <div class="container">
  
-    <h2 style="text-align:center">Membership Benefits Comparison</h2>
-    <p style="text-align:center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis ducimus rem quam nemo nisi totam. Distinctio animi veritatis quae! Qui minus optio dicta commodi, architecto iure delectus molestiae quasi. Culpa!</p>
+    <h2 class="mb-4 text-center">PRICES</h2>
+    <!-- <p style="text-align:center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis ducimus rem quam nemo nisi totam. Distinctio animi veritatis quae! Qui minus optio dicta commodi, architecto iure delectus molestiae quasi. Culpa!</p> -->
 
    <div class="flex"> 
     <div class="columns">

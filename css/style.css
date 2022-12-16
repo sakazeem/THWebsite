@@ -1763,6 +1763,8 @@ li.list-group-item.list-heading {
     transition: 0.3s;
     border-radius:35px;
     box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2);
+    
+    border-top: 1px solid rgba(0,0,0,0.2);
     max-width: 400px;
 }
 .columns:hover {
@@ -1780,7 +1782,7 @@ li.list-group-item.list-heading {
     margin: 0;
     padding: 0;
 }
-.columns li{color: #000; font-size: 18px; font-family: 'Poppins', sans-serif;  text-transform: capitalize;}
+.columns li{color: #000; font-size: 16px; font-family: 'Poppins', sans-serif;  text-transform: capitalize;}
 
 .price li {
     border-bottom: 1px solid #eee;
