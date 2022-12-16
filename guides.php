@@ -19,7 +19,7 @@
                 <h2 class="upperCs hdBtn-aling">Trending</h2>
             </div>
         </div>
-        <?php include('./guides-page-carousel.php');?>
+        <?php include('./guides-carousel-page.php');?>
     </div>
 </section>
 <!-- Guides End -->
