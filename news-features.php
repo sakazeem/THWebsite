@@ -80,7 +80,7 @@ var appendContent = function() {
     count++;
     for (var i = 0; i < 2; i++) {
         $('#contentScroll').append(
-            '<div class="col-md-6 col-sm-6 col-xs-6"> <div class="latestBlock"> <figure class="col-6 col-md-4"><img src="images/feat5.jpg" alt="*" /></figure> <div class="col-6 col-md-8"> <h6>News &amp; Features</h6> <h5>Folly: A picturesque award-winning restaurant and rooftop bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>  </div> </div> </div> <div class="col-md-6 col-sm-6 col-xs-6"> <div class="latestBlock"> <figure class="col-4"><img src="images/feat6.jpg" alt="*" /></figure> <div class="col-8"> <h6>Food</h6> <h5>Gohan Dubai: A hidden Japanese restaurant and speakeasy bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p> </div> </div> </div>'
+            '<div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/feat5.jpg" alt="*" /></figure> <div> <h6>News &amp; Features</h6> <h5>Folly: A picturesque award-winning restaurant and rooftop bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>  </div> </div> </div> <div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/feat6.jpg" alt="*" /></figure> <div> <h6>Food</h6> <h5>Gohan Dubai: A hidden Japanese restaurant and speakeasy bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p> </div> </div> </div>'
         );
     }
     $('#loading').fadeOut();
@@ -90,7 +90,7 @@ $("#loading-Btn").click(function() {
     count++;
     for (var i = 0; i < 2; i++) {
         $('#contentScroll').append(
-            '<div class="col-md-6 col-sm-6 col-xs-6"> <div class="latestBlock"> <figure class="col-6 col-md-4"><img src="images/feat5.jpg" alt="*" /></figure> <div class="col-6 col-md-8"> <h6>News &amp; Features</h6> <h5>Folly: A picturesque award-winning restaurant and rooftop bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>  </div> </div> </div> <div class="col-md-6 col-sm-6 col-xs-6"> <div class="latestBlock"> <figure class="col-4"><img src="images/feat6.jpg" alt="*" /></figure> <div class="col-8"> <h6>Food</h6> <h5>Gohan Dubai: A hidden Japanese restaurant and speakeasy bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p> </div> </div> </div>'
+            '<div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/feat5.jpg" alt="*" /></figure> <div> <h6>News &amp; Features</h6> <h5>Folly: A picturesque award-winning restaurant and rooftop bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p>  </div> </div> </div> <div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/feat6.jpg" alt="*" /></figure> <div> <h6>Food</h6> <h5>Gohan Dubai: A hidden Japanese restaurant and speakeasy bar</h5> <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying challeng... </p> </div> </div> </div>'
         );
     }
 })

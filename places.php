@@ -48,7 +48,7 @@
 <!-- filters end -->
 
 <!-- Latest news start-->
-<section class="latestNewsSection">
+<section class="latestNewsSection" style="display:none;">
     <div class="container">
         <div id="contentScroll" class="row">
             <div class="col-md-12">

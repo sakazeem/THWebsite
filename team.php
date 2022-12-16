@@ -21,4 +21,4 @@
     </div>
 </section>
 
-<?php include('./footer-02.php'); ?>
+<?php include('./footer.php'); ?>
