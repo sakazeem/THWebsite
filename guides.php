@@ -58,7 +58,7 @@
                 <div class="latestBlock">
                     <figure><img src="images/guide-img01.jpg" alt="*" /></figure>
                     <div>
-                        <h6>Outdoor Activities <span class="dot">26 places</span></h6>
+                        <h6>GUIDE<span class="dot">Outdoor Activities<span class="dot">26 places</span></h6>
                         <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5>
                         <p>immerse yourself in 17th-18th century Versailles</p>
 
@@ -69,7 +69,7 @@
                 <div class="latestBlock">
                     <figure><img src="images/guide-img02.jpg" alt="*" /></figure>
                     <div>
-                        <h6>Restuarants <span class="dot">26 places</span></h6>
+                        <h6>GUIDE<span class="dot">Restuarants<span class="dot">26 places</span></h6>
                         <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5>
                         <p>immerse yourself in 17th-18th century Versailles</p>
 
@@ -80,7 +80,7 @@
                 <div class="latestBlock">
                     <figure><img src="images/guide-img04.jpg" alt="*" /></figure>
                     <div>
-                        <h6>Outdoor Activities <span class="dot">26 places</span></h6>
+                        <h6>GUIDE<span class="dot">Outdoor Activities<span class="dot">26 places</span></h6>
                         <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5>
                         <p>immerse yourself in 17th-18th century Versailles</p>
 
@@ -91,7 +91,7 @@
                 <div class="latestBlock">
                     <figure><img src="images/guide-img03.jpg" alt="*" /></figure>
                     <div>
-                        <h6>Restuarants <span class="dot">26 places</span></h6>
+                        <h6>GUIDE<span class="dot">Restuarants <span class="dot">26 places</span></h6>
                         <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5>
                         <p>immerse yourself in 17th-18th century Versailles</p>
 
@@ -131,7 +131,7 @@ var appendContent = function() {
     count++;
     for (var i = 0; i < 2; i++) {
         $('#contentScroll').append(
-            '<div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img01.jpg" alt="*" /></figure> <div> <h6>Outdoor Activities <span class="dot">26 places</span></h6> <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5> <p>immerse yourself in 17th-18th century Versailles</p> </div> </div> </div> <div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img02.jpg" alt="*" /></figure> <div> <h6>Restuarants <span class="dot">26 places</span></h6> <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5> <p>immerse yourself in 17th-18th century Versailles</p>  </div> </div> </div>'
+            '<div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img01.jpg" alt="*" /></figure> <div> <h6>GUIDE<span class="dot">Outdoor Activities <span class="dot">26 places</span></h6> <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5> <p>immerse yourself in 17th-18th century Versailles</p> </div> </div> </div> <div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img02.jpg" alt="*" /></figure> <div> <h6>GUIDE<span class="dot">Restuarants <span class="dot">26 places</span></h6> <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5> <p>immerse yourself in 17th-18th century Versailles</p>  </div> </div> </div>'
         );
     }
     $('#loading').fadeOut();
@@ -141,7 +141,7 @@ $("#loading-Btn").click(function() {
     count++;
     for (var i = 0; i < 2; i++) {
         $('#contentScroll').append(
-            '<div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img01.jpg" alt="*" /></figure> <div> <h6>Outdoor Activities <span class="dot">26 places</span></h6> <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5> <p>immerse yourself in 17th-18th century Versailles</p>  </div> </div> </div> <div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img02.jpg" alt="*" /></figure> <div> <h6>Restuarants <span class="dot">26 places</span></h6> <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5> <p>immerse yourself in 17th-18th century Versailles</p>  </div> </div> </div>'
+            '<div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img01.jpg" alt="*" /></figure> <div> <h6>GUIDE<span class="dot">Outdoor Activities <span class="dot">26 places</span></h6> <h5>Its the last week to visit the Versaille exhibition at the Louvre</h5> <p>immerse yourself in 17th-18th century Versailles</p>  </div> </div> </div> <div class="col-md-4"> <div class="latestBlock"> <figure><img src="images/guide-img02.jpg" alt="*" /></figure> <div> <h6>GUIDE<span class="dot">Restuarants <span class="dot">26 places</span></h6> <h5>Comming Soon: A unique wellness Sanctuary, concious eatery...</h5> <p>immerse yourself in 17th-18th century Versailles</p>  </div> </div> </div>'
         );
     }
 })
