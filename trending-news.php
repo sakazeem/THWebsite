@@ -6,13 +6,13 @@
                 <div class="placeBlock">
                     <div class="placeTop">
                         <div>&nbsp;</div>
-                        <?php include('./share-button.php'); ?>
+                       
                     </div>
                     <img src="./images/place5.png" class="img-fluid" alt="">
                     <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
-                    <p class="category-title">News</p>
-                        <h6>The places we can't stop thinkig about right now...</h6>
-                        <p>They are just that good...</p>
+                    <p class="category-title">FREE ACCESS<span class="dot"></span>NEWS</p>
+                        <h6>The largest skate park in the region opens in Sharjah</h6>
+                        <p>Get the scoop...</p>
                         
                     </div>
                 </div>
@@ -21,13 +21,13 @@
                 <div class="placeBlock">
                     <div class="placeTop">
                         <div>&nbsp;</div>
-                        <?php include('./share-button.php'); ?>
+                        
                     </div>
                     <img src="./images/place2.png" class="img-fluid" alt="">
                     <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
-                    <p class="category-title">News</p>
-                        <h6>Demo sub heading will be here</h6>
-                        <p>Demo text will be here</p>
+                    <p class="category-title">FREE ACCESS<span class="dot"></span>NEWS</p>
+                        <h6>Voting for Abu Dhabi Loves Coffee 2022 is open</h6>
+                        <p>Your favourite third wave coffee spot needs you...</p>
                       
                     </div>
                 </div>
@@ -36,13 +36,13 @@
                 <div class="placeBlock">
                     <div class="placeTop">
                         <div>&nbsp;</div>
-                        <?php include('./share-button.php'); ?>
+                        
                     </div>
                     <img src="./images/place3.png" class="img-fluid" alt="">
                     <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
-                        <p class="category-title">News</p>
-                        <h6>Demo sub heading will be here</h6>
-                        <p>Demo text will be here</p>
+                        <p class="category-title">FREE ACCESS<span class="dot"></span>NEWS</p>
+                        <h6>New openings: A wood-fired taqueria is coming</h6>
+                        <p>Opening in Jumeirah later this month...</p>
                         
                     </div>
                 </div>
@@ -51,13 +51,13 @@
                 <div class="placeBlock">
                     <div class="placeTop">
                         <div>&nbsp;</div>
-                        <?php include('./share-button.php'); ?>
+                        
                     </div>
                     <img src="./images/place4.png" class="img-fluid" alt="">
                     <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
-                        <p class="category-title">News</p>
-                        <h6>Demo sub heading will be here</h6>
-                        <p>Demo text will be here</p>
+                        <p class="category-title">FREE ACCESS<span class="dot"></span>NEWS</p>
+                        <h6>Teible: A new menu and a refurb at the Jameel Arts Centre</h6>
+                        <p>Race you there...</p>
                         
                     </div>
                 </div>
@@ -66,13 +66,13 @@
                 <div class="placeBlock">
                     <div class="placeTop">
                         <div>&nbsp;</div>
-                        <?php include('./share-button.php'); ?>
+                        
                     </div>
                     <img src="./images/place5.png" class="img-fluid" alt="">
                     <div class="dBoxTxt" onclick="window.open('/news-features-detail.php', '_self')">
-                        <p class="category-title">News</p>
-                        <h6>Demo sub heading will be here</h6>
-                        <p>Demo text will be here</p>
+                        <p class="category-title">FREE ACCESS<span class="dot"></span>NEWS</p>
+                        <h6>For your diary: Takashi Murakami’s first Dubai exhibition</h6>
+                        <p>With Perrotin at ICD Brookfield Place in DIFC...</p>
                        
                     </div>
                 </div>

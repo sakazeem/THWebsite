@@ -11,7 +11,7 @@
                     <a class="btn" href="#">My huntr coffee card</a>
                 </div>
                 <div class="col-5 col-5-md">
-                    <img class="perk-banner-img" src="./images/coffee-card-img.png" />
+                    <img class="perk-banner-img" src="./images/coffee-card–img.png" />
                 </div>
             </div>
         </div>

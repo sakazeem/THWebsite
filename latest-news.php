@@ -52,7 +52,7 @@
     <div class="latestBlock noBordr">
         <figure class="col-12"><a href="#"><img src="images/feat6.jpg" alt="*" /></a></figure>
         <div class="col-12" onclick="window.open('/news-features-detail.php','_self')">
-            <h6>FREE ACCESS<span class="dot"></span>NEWS/h6>
+            <h6>FREE ACCESS<span class="dot"></span>NEWS</h6>
             <h5><a href="#">Gohan Dubai: A hidden Japanese restaurant and speakeasy bar</a></h5>
             <p>Only one day after the Taliban named an acting cabinet to lead Afghanistan, the dizzying
                 challeng... </p>
