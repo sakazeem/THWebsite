@@ -19,7 +19,7 @@
                 <h2 class="upperCs hdBtn-aling">Trending</h2>
             </div>
         </div>
-        <?php include('./places-carousel.php');?>
+        <?php include('./places-carousel-page.php');?>
     </div>
 </section>
 <!-- Guides End -->
@@ -48,13 +48,13 @@
 <!-- filters end -->
 
 <!-- Latest news start-->
-<section class="latestNewsSection" style="display:none;">
+<section class="latestNewsSection">
     <div class="container">
         <div id="contentScroll" class="row">
             <div class="col-md-12">
                 <h2 class="upperCs popinsFont5">New Additions</h2>
             </div>
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4">
                 <div class="placesList">
                     <figure><img src="images/place-img01.jpg" alt="*" /></figure>
                     <div class="text">
@@ -63,7 +63,7 @@
                     </div>
                 </div>
             </div><!-- .item-->
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4">
                 <div class="placesList">
                     <figure><img src="images/place-img02.jpg" alt="*" /></figure>
                     <div class="text">
@@ -72,7 +72,7 @@
                     </div>
                 </div>
             </div><!-- .item-->
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4">
                 <div class="placesList">
                     <figure><img src="images/place-img03.jpg" alt="*" /></figure>
                     <div class="text">
@@ -81,7 +81,7 @@
                     </div>
                 </div>
             </div><!-- .item-->
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4">
                 <div class="placesList">
                     <figure><img src="images/place-img02.jpg" alt="*" /></figure>
                     <div class="text">
@@ -90,7 +90,7 @@
                     </div>
                 </div>
             </div><!-- .item-->
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4">
                 <div class="placesList">
                     <figure><img src="images/place-img03.jpg" alt="*" /></figure>
                     <div class="text">
@@ -99,7 +99,7 @@
                     </div>
                 </div>
             </div><!-- .item-->
-            <div class="col-md-4 col-sm-4 col-xs-12">
+            <div class="col-md-4">
                 <div class="placesList">
                     <figure><img src="images/place-img01.jpg" alt="*" /></figure>
                     <div class="text">
@@ -141,7 +141,7 @@
 // var appendContent=function(){
 //    count++;
 //    for(var i=0;i<2;i++){
-//       $('#contentScroll').append('<div class="col-md-4 col-sm-4 col-xs-12"> <div class="placesList"> <figure><img src="images/place-img02.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">20% of at Qahwaty</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4 col-sm-4 col-xs-12"> <div class="placesList"> <figure><img src="images/place-img03.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4 col-sm-4 col-xs-12"> <div class="placesList"> <figure><img src="images/place-img01.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item-->');	
+//       $('#contentScroll').append('<div class="col-md-4"> <div class="placesList"> <figure><img src="images/place-img02.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">20% of at Qahwaty</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4"> <div class="placesList"> <figure><img src="images/place-img03.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4"> <div class="placesList"> <figure><img src="images/place-img01.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item-->');	
 //    }
 //   $('#loading').fadeOut();
 // };
@@ -149,7 +149,7 @@
 // $("#loading-Btn").click(function(){
 //    count++;
 //    for(var i=0;i<2;i++){
-//        $('#contentScroll').append('<div class="col-md-4 col-sm-4 col-xs-12"> <div class="placesList"> <figure><img src="images/place-img02.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">20% of at Qahwaty</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4 col-sm-4 col-xs-12"> <div class="placesList"> <figure><img src="images/place-img03.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4 col-sm-4 col-xs-12"> <div class="placesList"> <figure><img src="images/place-img01.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item-->');	
+//        $('#contentScroll').append('<div class="col-md-4"> <div class="placesList"> <figure><img src="images/place-img02.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">20% of at Qahwaty</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4"> <div class="placesList"> <figure><img src="images/place-img03.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item--> <div class="col-md-4"> <div class="placesList"> <figure><img src="images/place-img01.jpg" alt="*" /></figure> <div class="text"> <a class="h5" href="">Buy 1 get 1 free day passes at caesars palace</a> <h6>cafe in dubai <span>0.4km <i class="far fa-map-marker-alt"></i></span></h6> </div> </div> </div><!-- .item-->');	
 //    }
 // })
 </script>
