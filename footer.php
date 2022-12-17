@@ -18,19 +18,13 @@
                     </div>
 
                 
-                <div class="headsocial footsocial quick-links">
-                    <h4 class="mb-2">FOLLOW US</h4>
-
-                    <a href=""><img src="./images/fb.png" alt="" /></a>
-                    <a href=""><img src="./images/insta.png" alt="" /></a>
-                    <a href=""><img src="./images/tiktok.png" alt="" /></a>
-                </div>
+               
                 <div class="payment-card mt-4">
                 <img src="./images/secure-payment.png" alt=""/>
                 </div>
-                <!-- <div class="copyright mt-2 footer-menu">
+                <div class="copyright-desktop mt-3 footer-menu">
                 <p>&copy; Copyright 2022 The HUNTR</p>
-                </div> -->
+                </div>
 
                
             </div>
@@ -49,12 +43,13 @@
                 </ul>
             </div>
 
-            <div class="contact-info">
-                <h4 class="mt-2">CONTACT</h4>
-                <p>info@thehuntr.com</p>
-                <p>+91 340 2566899</p>
+            <div class="headsocial footsocial quick-links">
+                    <h4 class="mb-2">FOLLOW US</h4>
 
-            </div>
+                    <a href=""><img src="./images/fb.png" alt="" /></a>
+                    <a href=""><img src="./images/insta.png" alt="" /></a>
+                    <a href=""><img src="./images/tiktok.png" alt="" /></a>
+                </div>
 
             </div>
             <div class="col-md-3 footer-menu">
@@ -68,14 +63,14 @@
                 </ul>
             </div>
 
-            <div class="quick-links">
+            <!-- <div class="quick-links">
                 <h4 class="mt-2">LEGAL</h4>
                 <ul>
                 <li>EDITORIAL POLICY</li>
                 <li>TERMS & CONDITIONS</li>
                 <li>PRIVACY POLICY</li>
                 </ul>
-            </div>
+            </div> -->
             </div>
         </div>
 
@@ -83,7 +78,7 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="bottom-footer">
-                    <img src="./images/icon-curators-of-good-taste-black.png" alt="" class="footer-icon" />
+                    <img src="./images/icon-curators-of-good-taste-red.png" alt="" class="footer-icon" />
                     <h6 class="ms-2 my-4">THE ONLY GUIDE TO DUBAI & THE UAE YOU NEED</h6>
                 </div>
             </div>

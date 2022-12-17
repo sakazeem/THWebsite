@@ -1,14 +1,14 @@
 <?php include('./header.php'); ?>
 
 <!-- Inner Banner Start -->
-<section class="inner-banner">
+<!-- <section class="inner-banner">
     <div class="container-fluid">
         <div class="row top-banner">
             <h2 class="inner-banner-text">Guides</h2>
             <img src="./images/news-banner.jpg" alt="*">
         </div>
     </div>
-</section>
+</section> -->
 <!-- Inner Banner End -->
 
 <!-- Guides Start -->
@@ -19,7 +19,7 @@
                 <h2 class="upperCs hdBtn-aling">Trending</h2>
             </div>
         </div>
-        <?php include('./guides-carousel-page.php');?>
+        <?php include('./guides-carousel.php');?>
     </div>
 </section>
 <!-- Guides End -->

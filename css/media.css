@@ -375,7 +375,7 @@
     }
 
     .newsFeatureSlide .dBoxTxt {
-        bottom: 0px;
+        bottom: 20px;
     }
 
     .footerGetbtn {
@@ -753,14 +753,7 @@
         display:none;
     
 }
-    .dot:before {
-        display:none;
-    }
-
-        .latestBlock h6 span{
-            display:block;
-
-        }
+    
         .latestBlock{
             display:block;
         }  
@@ -794,6 +787,9 @@
         display: none;
     }
     .desktop{visibility: visible;}
+    .copyright{
+        display:none;
+    }
 }
 @media(max-device-width:767px) {
     .phone{ visibility:visible;
@@ -802,6 +798,7 @@
         visibility:hidden;
         display:none;
      }
+
 }
  
 
