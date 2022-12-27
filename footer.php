@@ -7,22 +7,18 @@
                 <h1>Get the best of your city<br /> straight to your inbox</h1>
                     <div class="">
                     <form class="newsLetterForm">
-                    <input type="text" placeholder="Email Address"><button><i class="far fa-greater-than"></i></button>
+                    <input type="text" placeholder="Enter your email address"><button><i class="far fa-greater-than"></i></button>
                     </div>
                 </form>
                 </div>
 
-                <div class="storebtn mb-4">
-                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt="" /></a>
-                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt="" /></a>
-                    </div>
-
+               
                 
                
                 <div class="payment-card mt-4">
                 <img src="./images/secure-payment.png" alt=""/>
                 </div>
-                <div class="copyright-desktop mt-3 footer-menu">
+                <div class="copyright-desktop mt-3 footer-menu-desktop">
                 <p>&copy; Copyright 2022 The HUNTR</p>
                 </div>
 
@@ -38,7 +34,7 @@
                 <li>GUIDES</li>
                 <li>THE HUNTR MEMBERSHIP</li>
                 <li>THE HUNTR STORE</li>
-                <li>ABOUT</li>
+               
 
                 </ul>
             </div>
@@ -63,6 +59,12 @@
                 </ul>
             </div>
 
+            <div class="storebtn mb-4">
+                        <a href="#"><img src="./images/footappstore.png" class="img-fluid" alt="" /></a>
+                        <a href="#"><img src="./images/footplaystore.png" class="img-fluid" alt="" /></a>
+                    </div>
+
+
             <!-- <div class="quick-links">
                 <h4 class="mt-2">LEGAL</h4>
                 <ul>
@@ -72,6 +74,7 @@
                 </ul>
             </div> -->
             </div>
+
         </div>
 
     <div class="desktop-bottom-footer">
@@ -103,6 +106,39 @@
          
         </div>
     </div>
+    <div class="phone">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="footerCarousel" class="owl-carousel owl-theme">
+                <div class="item">
+                <div class="bottom-footer">
+                    <img src="./images/icon-curators-of-good-taste-red.png" alt="" class="footer-icon" />
+                    <h6 class="ms-2 my-4">THE ONLY GUIDE TO DUBAI & THE UAE YOU NEED</h6>
+                </div>
+                </div>
+                <div class="item">
+                <div class="bottom-footer">
+                <img src="./images/icon-the-huntr-mobile.png" alt="" class="footer-icon" />
+                    <h6 class="ms-2 my-4">FEATURING EVERYTHING YOU NEED TO KNOW & IGNORING THE REST</h6>
+                </div>
+                </div>
+                <div class="item">
+                <div class="bottom-footer">
+                <img src="./images/icon-the-huntr-coffee.png" alt="" class="footer-icon" />
+                    <h6 class="ms-2 my-4">THE ONLY CROSS-CONCEPT COFFEE LOYALTY CARD IN THE REGION </h6>
+                </div>
+                </div>
+                <div class="item">
+                <div class="bottom-footer">
+                <img src="./images/icon-hand.png" alt="" class="footer-icon" />
+                    <h6 class="ms-2 my-4">A SMALL HOMEGROWN MEDIA COMPANY. PROUDLY BORN IN DUBAI.</h6>
+                </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
         
     <div class="copyright">
             <div class="headsocial footsocial">
@@ -114,7 +150,11 @@
             <p>&copy; The HUNTR 2022</p>
     </div>
 
+    
+
     </div>
+
+
 
 </footer>
 <a href="#" id="scroll" style="display: none;"><span></span></a>
@@ -165,6 +205,35 @@ discover.owlCarousel({
         },
         1170: {
             items: 3
+        }
+    }
+});
+
+var footercarosal = $("#footerCarousel");
+
+footercarosal.owlCarousel({
+    loop: true,
+    nav: true,
+    //            center: true,
+    items: 3,
+    margin: 15,
+    autoplay: true,
+    dots: false,
+    autoplayTimeout: 1500,
+    smartSpeed: 450,
+    responsive: {
+        0: {
+            items: 1.3,
+            nav: false,
+        },
+        768: {
+            items: 2.3
+        },
+        991: {
+            items: 3.7
+        },
+        1024: {
+            items: 3.5
         }
     }
 });

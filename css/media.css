@@ -530,7 +530,7 @@
     }
 
     .storebtn {
-        justify-content: center;
+        justify-content: left;
         padding-bottom: 10px;
         padding-top: 0px;
     }
@@ -835,15 +835,27 @@
 .desktop-bottom-footer{
      display:none;
 }
+.newsLetterForm{
+    text-align: left;
+}
+
 .newsLetterForm h1{
     font-size:26px;
     line-height:32px;
 }
 .payment-card{
-    display:none;
+  text-align: left;
+  margin-bottom: 20px;
 }
 .footer-menu{
+   text-align:left;
+}
+.footer-menu-desktop{
     display:none;
+
+}
+.phone .bottom-footer{
+text-align: left;
 }
 
 }
