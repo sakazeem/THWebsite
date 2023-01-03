@@ -109,7 +109,10 @@
     <div class="phone">
     <div class="row">
         <div class="col-md-12">
-            <div id="footerCarousel" class="owl-carousel owl-theme">
+            <p>CHEKC
+                
+            </p>
+            <!-- <div id="footerCarousel" class="owl-carousel owl-theme">
                 <div class="item">
                 <div class="bottom-footer">
                     <img src="./images/icon-curators-of-good-taste-red.png" alt="" class="footer-icon" />
@@ -135,6 +138,14 @@
                 </div>
                 </div>
                 
+            </div> -->
+
+            <div class="marquee">
+                <div class="marquee-content"> 
+                    <div class="marquee-item">
+                    <img src="./images/footer-image.png" alt="">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
