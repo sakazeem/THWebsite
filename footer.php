@@ -109,9 +109,7 @@
     <div class="phone">
     <div class="row">
         <div class="col-md-12">
-            <p>CHEKC
-                
-            </p>
+           
             <!-- <div id="footerCarousel" class="owl-carousel owl-theme">
                 <div class="item">
                 <div class="bottom-footer">
