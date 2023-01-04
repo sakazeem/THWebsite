@@ -1934,30 +1934,4 @@ margin-left: -15px;
     outline: none;
 } 
 
-.marquee {
-    /*   overflow: hidden; */
-    }
-    
-    .marquee-content {
-      display: flex;
-      animation: scrolling 10s linear infinite;
-    }
-    
-    .marquee-item {
-      flex: 0 0 16vw;
-      margin: 0 1vw;
-    /*   flex: 0 0 20vw; */
-    /*   margin: 0 2vw; */
-    }
-    
-    .marquee-item img {
-     
-    /*   padding: 0 20px; */
-    }
-    
-     @keyframes scrolling {
-      0% { transform: translateX(0); }
-      100% { transform: translatex(-300vw); }
-    }
-    
 

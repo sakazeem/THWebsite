@@ -109,8 +109,12 @@
     <div class="phone">
     <div class="row">
         <div class="col-md-12">
+<<<<<<< HEAD
            
             <!-- <div id="footerCarousel" class="owl-carousel owl-theme">
+=======
+            <div id="footerCarousel" class="owl-carousel owl-theme">
+>>>>>>> parent of b49d89a (marquee)
                 <div class="item">
                 <div class="bottom-footer">
                     <img src="./images/icon-curators-of-good-taste-red.png" alt="" class="footer-icon" />
@@ -136,14 +140,6 @@
                 </div>
                 </div>
                 
-            </div> -->
-
-            <div class="marquee">
-                <div class="marquee-content"> 
-                    <div class="marquee-item">
-                    <img src="./images/footer-image.png" alt="">
-                    </div>
-                </div>
             </div>
         </div>
     </div>
