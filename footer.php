@@ -103,39 +103,6 @@
          
         </div>
     </div>
-    <div class="phone">
-    <div class="row">
-        <div class="col-md-12">
-            <div id="footerCarousel" class="owl-carousel owl-theme">
-                <div class="item">
-                <div class="bottom-footer">
-                    <img src="./images/icon-curators-of-good-taste-red.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">THE ONLY GUIDE TO DUBAI & THE UAE YOU NEED</h6>
-                </div>
-                </div>
-                <div class="item">
-                <div class="bottom-footer">
-                <img src="./images/icon-the-huntr-mobile.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">FEATURING EVERYTHING YOU NEED TO KNOW & IGNORING THE REST</h6>
-                </div>
-                </div>
-                <div class="item">
-                <div class="bottom-footer">
-                <img src="./images/icon-the-huntr-coffee.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">THE ONLY CROSS-CONCEPT COFFEE LOYALTY CARD IN THE REGION </h6>
-                </div>
-                </div>
-                <div class="item">
-                <div class="bottom-footer">
-                <img src="./images/icon-hand.png" alt="" class="footer-icon" />
-                    <h6 class="ms-2 my-4">A SMALL HOMEGROWN MEDIA COMPANY. PROUDLY BORN IN DUBAI.</h6>
-                </div>
-                </div>
-                
-            </div>
-        </div>
-    </div>
-</div>
         
     <div class="copyright">
             <div class="headsocial footsocial">
